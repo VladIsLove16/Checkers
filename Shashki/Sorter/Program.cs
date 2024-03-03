@@ -1,4 +1,4 @@
-﻿using СхевенингерскаяСистема;
+﻿using Sorter;
 const int TeamCount = 6;
 //добавь свою систему здесь
 List<SortSystem> sortSystems=
