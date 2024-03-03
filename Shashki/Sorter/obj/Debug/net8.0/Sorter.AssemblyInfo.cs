@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sorter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b26df8dab00b08e50d7979525a3271fd47c6578b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1621c0572e627517c7c9c62d5214c3ad9337c9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sorter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sorter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

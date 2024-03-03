@@ -1,10 +1,10 @@
 ﻿using Sorter;
-const int TeamCount = 6;
+const int PaticipantCount= 6;
 //добавь свою систему здесь
 List<SortSystem> sortSystems=
 [
-    new RoundSort(TeamCount),
-    new ScheveningenSystem(TeamCount),
+    new RoundSort(PaticipantCount),
+    new ScheveningenSystem(PaticipantCount),
     //Олимийская
     //Швейцарская
 ];
