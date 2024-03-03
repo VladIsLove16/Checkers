@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace СхевенингерскаяСистема
+namespace Sorter
 {
     internal class ScheveningenSystem : SortSystem
     {
