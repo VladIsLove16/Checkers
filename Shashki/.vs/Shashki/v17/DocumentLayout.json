@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Sorter\\Participant.cs",
               "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Participant.cs",
               "RelativeToolTip": "Sorter\\Participant.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-03T13:32:00.798Z",
               "EditorCaption": ""
@@ -36,15 +36,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Sorter",
+              "Title": "Sorter.csproj",
               "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Sorter.csproj",
               "RelativeDocumentMoniker": "Sorter\\Sorter.csproj",
               "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Sorter.csproj",
               "RelativeToolTip": "Sorter\\Sorter.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-03T13:32:00.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T13:32:00.031Z"
             }
           ]
         }

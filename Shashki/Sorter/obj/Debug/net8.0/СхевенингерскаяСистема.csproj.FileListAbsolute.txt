@@ -1,0 +1,15 @@
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\obj\Debug\net8.0\СхевенингерскаяСистема.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\obj\Debug\net8.0\СхевенингерскаяСистема.AssemblyInfoInputs.cache
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\obj\Debug\net8.0\СхевенингерскаяСистема.AssemblyInfo.cs
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\obj\Debug\net8.0\СхевенингерскаяСистема.csproj.CoreCompileInputs.cache
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\obj\Debug\net8.0\СхевенингерскаяСистема.sourcelink.json
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\bin\Debug\net8.0\СхевенингерскаяСистема.exe
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\bin\Debug\net8.0\СхевенингерскаяСистема.deps.json
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\bin\Debug\net8.0\СхевенингерскаяСистема.runtimeconfig.json
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\bin\Debug\net8.0\СхевенингерскаяСистема.dll
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\bin\Debug\net8.0\СхевенингерскаяСистема.pdb
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\obj\Debug\net8.0\СхевенингерскаяСистема.dll
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\obj\Debug\net8.0\refint\СхевенингерскаяСистема.dll
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\obj\Debug\net8.0\СхевенингерскаяСистема.pdb
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\obj\Debug\net8.0\СхевенингерскаяСистема.genruntimeconfig.cache
+D:\Subjects\PD\Shashki\СхевенингерскаяСистема\СхевенингерскаяСистема\obj\Debug\net8.0\ref\СхевенингерскаяСистема.dll
