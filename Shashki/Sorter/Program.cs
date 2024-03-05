@@ -1,21 +1,29 @@
 ﻿using Sorter;
+using System.Buffers;
+using System.Reflection;
 const int PaticipantCount= 6;
 //добавь свою систему здесь
-List<SortSystem> sortSystems=
-[
-    new RoundSort(PaticipantCount),
-    new ScheveningenSystem(PaticipantCount),
-    //Олимийская
-    //Швейцарская
-];
+Type[] sortSystems = Assembly.GetExecutingAssembly().GetTypes()
+            .Where(t => typeof(SortSystem).IsAssignableFrom(t) && !t.IsInterface && !t.IsAbstract)
+            .ToArray();
 Console.WriteLine("Выбери систему сортировки");
 int i = 0;
-foreach (SortSystem sortSystem in sortSystems)
+List<SortSystem> sortSystems1 = new List<SortSystem>();
+object[] constructorParams = { PaticipantCount
+};
+foreach (Type type in sortSystems)
 {
-    Console.WriteLine(sortSystem.ToString() + " <--> "+i++);
+    ConstructorInfo constructor = type.GetConstructor(new[] { typeof(int) });
+    if (constructor != null)
+    {
+        // Создаем объект с помощью конструктора и параметров
+        SortSystem obj = (SortSystem)constructor.Invoke(constructorParams);
+        sortSystems1.Add(obj);
+    }
+    Console.WriteLine(type.ToString() + " <--> "+i++);
 }
 int choosen = Convert.ToInt32(Console.ReadLine());
-SortSystem choosenSortSystem = sortSystems[choosen];
+SortSystem choosenSortSystem = sortSystems1[choosen];
 List<RoundGames> tournamentRounds = choosenSortSystem.CreateTournamentSchedule();
 Print(tournamentRounds);
 void Print(List<RoundGames> tournamentRounds)
