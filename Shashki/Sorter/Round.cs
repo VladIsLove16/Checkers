@@ -12,7 +12,7 @@ namespace Shashki
 
         public new void Add(IGame game)
         {
-            game.ResultSet += OnGameResultSet;
+            game.ResultSetted += OnGameResultSet;
             base.Add(game);
         }
 

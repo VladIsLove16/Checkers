@@ -1,6 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Microsoft.Win32;
 using Shashki;
-
 string? choice;
 var allowedTourTypeChoices = new[] { "1", "2" };
 do
