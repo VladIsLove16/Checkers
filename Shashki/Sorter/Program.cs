@@ -10,7 +10,6 @@ do
     Console.WriteLine("2. Швейцарский");
     choice = Console.ReadLine();
 } while (!allowedTourTypeChoices.Contains(choice));
-
 Tournament tournament = default!;
 switch (choice)
 {
