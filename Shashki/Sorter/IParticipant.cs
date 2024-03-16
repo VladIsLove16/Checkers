@@ -19,5 +19,6 @@ namespace Shashki
         public ParticipantRank Rank { get; set; }
         public List<IGame> Games { get; }
         public double Score { get; }
+        public int IntID { get; set; }
     }
 }

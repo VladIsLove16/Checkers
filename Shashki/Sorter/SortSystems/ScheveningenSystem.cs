@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Shashki.SortSystems
+namespace Shashki
 {
     internal class ScheveningenSystem : SortSystem
     {
