@@ -24,7 +24,6 @@ namespace Shashki
         public IParticipant PlayerWhite { get; }
 
         public IParticipant PlayerBlack { get; }
-
         public GameResult Result
         {
             get
@@ -34,10 +33,10 @@ namespace Shashki
             set
             {
                 gameResult = value;
-                ResultSet?.Invoke(this, EventArgs.Empty);
+                ResultSetted?.Invoke(this, EventArgs.Empty);
             }
         }
 
-        public event EventHandler? ResultSet;
+        public event EventHandler? ResultSetted;
     }
 }

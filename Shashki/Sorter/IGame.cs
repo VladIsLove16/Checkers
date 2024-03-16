@@ -16,6 +16,6 @@ namespace Shashki
         public IParticipant PlayerWhite { get; }
         public IParticipant PlayerBlack { get; }
         public GameResult Result { get; set; }
-        public event EventHandler? ResultSet;
+        public event EventHandler? ResultSetted;
     }
 }
