@@ -14,6 +14,11 @@ namespace Shashki
             PlayerWhite = participantWhite;
             PlayerBlack = participantBlack;
         }
+        public Game(IParticipant participantWhite, IParticipant participantBlack)
+        {
+            PlayerWhite = participantWhite;
+            PlayerBlack = participantBlack;
+        }
         public int Round { get; }
 
         public IParticipant PlayerWhite { get; }

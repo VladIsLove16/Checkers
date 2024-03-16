@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Shashki;
 
-namespace Shashki.SortSystems
+namespace Shashki
 {
     public class SwissTournament : Tournament
     {
