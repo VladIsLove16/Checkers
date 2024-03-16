@@ -2,8 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using TournamentManager;
 
-namespace TournamentManager
+namespace Sorter.Tournament
 {
     public abstract class Tournament : ITournament
     {
@@ -23,7 +24,7 @@ namespace TournamentManager
         {
             get
             {
-                return this.GetType().Name switch
+                return GetType().Name switch
                 {
                     nameof(RoundRobinTournament) => TournamentType.RoundRobin,
                     nameof(SwissTournament) => TournamentType.Swiss,

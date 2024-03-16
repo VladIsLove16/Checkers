@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sorter
+namespace Shashki.SortSystems
 {
     internal class ScheveningenSystem : SortSystem
     {
         private Team Team1 = new Team();
         private Team Team2 = new Team();
-        public ScheveningenSystem(Team team1, Team team2) 
-        { 
-            (Team1,Team2)=(team1,team2);
+        public ScheveningenSystem(Team team1, Team team2)
+        {
+            (Team1, Team2) = (team1, team2);
         }
         public ScheveningenSystem(int numberOfParticipants)
         {
@@ -25,7 +25,7 @@ namespace Sorter
         }
         public override List<RoundGames> CreateTournamentSchedule()
         {
-            List < RoundGames > Schedule = new List< RoundGames >();
+            List<RoundGames> Schedule = new List<RoundGames>();
             int ParticipantsCount = Team1.Participants.Count;
             int roundAddition = 0;
             for (int j = 0; j < ParticipantsCount; j++)

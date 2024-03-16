@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sorter
+namespace Shashki
 {
     using System;
     using System.Collections.Generic;
@@ -12,7 +12,7 @@ namespace Sorter
     using System.Text;
     using System.Threading.Tasks;
 
-    namespace Sorter
+    namespace Shashki
     {
         class RoundSort2
         {
