@@ -5,9 +5,7 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shashki", "Sorter\Shashki.csproj", "{A1602836-1CD0-45B9-9F83-97E48BD2D616}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registry", "RegistrySystem\Registry.csproj", "{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tournament", "Tournament\Tournament.csproj", "{28E6CA07-D942-4EA2-88C6-4760C3AAD688}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Registry", "RegistrySystem\Registry.csproj", "{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +21,6 @@ Global
 		{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{28E6CA07-D942-4EA2-88C6-4760C3AAD688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28E6CA07-D942-4EA2-88C6-4760C3AAD688}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28E6CA07-D942-4EA2-88C6-4760C3AAD688}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28E6CA07-D942-4EA2-88C6-4760C3AAD688}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

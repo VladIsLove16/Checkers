@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\Subjects\\PD\\Shashki\\Shashki\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28E6CA07-D942-4EA2-88C6-4760C3AAD688}|Tournament\\Tournament.csproj|d:\\subjects\\pd\\shashki\\shashki\\tournament\\tournament.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{28E6CA07-D942-4EA2-88C6-4760C3AAD688}|Tournament\\Tournament.csproj|solutionrelative:tournament\\tournament.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28E6CA07-D942-4EA2-88C6-4760C3AAD688}|Tournament\\Tournament.csproj|d:\\subjects\\pd\\shashki\\shashki\\tournament\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28E6CA07-D942-4EA2-88C6-4760C3AAD688}|Tournament\\Tournament.csproj|solutionrelative:tournament\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\tournament\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\tournament\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\Registry.csproj|d:\\subjects\\pd\\shashki\\shashki\\registrysystem\\registry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\Registry.csproj|solutionrelative:registrysystem\\registry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\shashki.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\shashki.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\Registry.csproj|d:\\subjects\\pd\\shashki\\shashki\\registrysystem\\registry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\Registry.csproj|solutionrelative:registrysystem\\registry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\Registry.csproj|d:\\subjects\\pd\\shashki\\shashki\\registrysystem\\registry.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\Registry.csproj|solutionrelative:registrysystem\\registry.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\RegistrySystem.csproj|d:\\subjects\\pd\\shashki\\shashki\\registrysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\RegistrySystem.csproj|solutionrelative:registrysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\RegistrySystem.csproj|d:\\subjects\\pd\\shashki\\shashki\\registrysystem\\registrysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\RegistrySystem.csproj|solutionrelative:registrysystem\\registrysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\sortsystems\\roundsort2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,28 +43,12 @@
       "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\sortsystems\\sortsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28E6CA07-D942-4EA2-88C6-4760C3AAD688}|Tournament\\Tournament.csproj|d:\\subjects\\pd\\shashki\\shashki\\tournament\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28E6CA07-D942-4EA2-88C6-4760C3AAD688}|Tournament\\Tournament.csproj|solutionrelative:tournament\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\RegistrySystem.csproj|d:\\subjects\\pd\\shashki\\shashki\\registrysystem\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\RegistrySystem.csproj|solutionrelative:registrysystem\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\RegistrySystem.csproj|d:\\subjects\\pd\\shashki\\shashki\\registrysystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\RegistrySystem.csproj|solutionrelative:registrysystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\sortsystems\\roundrobintournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\sortsystems\\roundrobintournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\tournament\\itournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\tournament\\itournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\itable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\tournament\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\tournament\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\sortsystems\\scheveningensystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\sortsystems\\scheveningensystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -107,20 +87,28 @@
       "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\roundgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\\u0436\u0435\u0441\u043A\u0438\u0439 \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\\checkersgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\\u0436\u0435\u0441\u043A\u0438\u0439 \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\\checkersgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|d:\\subjects\\pd\\shashki\\shashki\\sorter\\iround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1602836-1CD0-45B9-9F83-97E48BD2D616}|Sorter\\Shashki.csproj|solutionrelative:sorter\\iround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\Registry.csproj|d:\\subjects\\pd\\shashki\\shashki\\registrysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\Registry.csproj|solutionrelative:registrysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\Registry.csproj|d:\\subjects\\pd\\shashki\\shashki\\registrysystem\\registrysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\Registry.csproj|solutionrelative:registrysystem\\registrysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\Registry.csproj|d:\\subjects\\pd\\shashki\\shashki\\registrysystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\Registry.csproj|solutionrelative:registrysystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\Registry.csproj|d:\\subjects\\pd\\shashki\\shashki\\registrysystem\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC00BBF-2557-4FC8-A38D-F8E46A8A49FF}|RegistrySystem\\Registry.csproj|solutionrelative:registrysystem\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,54 +118,135 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Tournament",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Tournament\\Tournament.csproj",
-              "RelativeDocumentMoniker": "Tournament\\Tournament.csproj",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Tournament\\Tournament.csproj",
-              "RelativeToolTip": "Tournament\\Tournament.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 9,
+              "Title": "SortSystem.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\SortSystem.cs",
+              "RelativeDocumentMoniker": "Sorter\\SortSystems\\SortSystem.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\SortSystem.cs",
+              "RelativeToolTip": "Sorter\\SortSystems\\SortSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:45:19.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoundSort2.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\RoundSort2.cs",
+              "RelativeDocumentMoniker": "Sorter\\SortSystems\\RoundSort2.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\RoundSort2.cs",
+              "RelativeToolTip": "Sorter\\SortSystems\\RoundSort2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:39:47.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoundSort.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\RoundSort.cs",
+              "RelativeDocumentMoniker": "Sorter\\SortSystems\\RoundSort.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\RoundSort.cs",
+              "RelativeToolTip": "Sorter\\SortSystems\\RoundSort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:45:06.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shashki.csproj",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Shashki.csproj",
+              "RelativeDocumentMoniker": "Sorter\\Shashki.csproj",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Shashki.csproj",
+              "RelativeToolTip": "Sorter\\Shashki.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-16T19:15:54.934Z",
+              "WhenOpened": "2024-03-16T16:44:30.516Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registry",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\Registry.csproj",
+              "RelativeDocumentMoniker": "RegistrySystem\\Registry.csproj",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\Registry.csproj",
+              "RelativeToolTip": "RegistrySystem\\Registry.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T19:10:42.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tournament.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Tournament\\Tournament.cs",
-              "RelativeDocumentMoniker": "Tournament\\Tournament.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Tournament\\Tournament.cs",
-              "RelativeToolTip": "Tournament\\Tournament.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\User.cs",
+              "RelativeDocumentMoniker": "RegistrySystem\\User.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\User.cs",
+              "RelativeToolTip": "RegistrySystem\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T19:13:59.638Z",
+              "WhenOpened": "2024-03-16T15:43:18.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Participant.cs",
+              "RelativeDocumentMoniker": "Sorter\\Participant.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Participant.cs",
+              "RelativeToolTip": "Sorter\\Participant.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:45:01.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Tournament\\Program.cs",
-              "RelativeDocumentMoniker": "Tournament\\Program.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Tournament\\Program.cs",
-              "RelativeToolTip": "Tournament\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Program.cs",
+              "RelativeDocumentMoniker": "Sorter\\Program.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Program.cs",
+              "RelativeToolTip": "Sorter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T19:13:45.519Z",
+              "WhenOpened": "2024-03-05T16:39:22.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Team.cs",
+              "RelativeDocumentMoniker": "Sorter\\Team.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Team.cs",
+              "RelativeToolTip": "Sorter\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:07:41.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\Program.cs",
+              "RelativeDocumentMoniker": "RegistrySystem\\Program.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\Program.cs",
+              "RelativeToolTip": "RegistrySystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:34:57.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Registry.csproj",
               "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\Registry.csproj",
               "RelativeDocumentMoniker": "RegistrySystem\\Registry.csproj",
@@ -190,123 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\Program.cs",
-              "RelativeDocumentMoniker": "RegistrySystem\\Program.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\Program.cs",
-              "RelativeToolTip": "RegistrySystem\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T15:34:57.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegistrySystem.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\RegistrySystem.cs",
-              "RelativeDocumentMoniker": "RegistrySystem\\RegistrySystem.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\RegistrySystem.cs",
-              "RelativeToolTip": "RegistrySystem\\RegistrySystem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T15:35:06.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SortSystem.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\SortSystem.cs",
-              "RelativeDocumentMoniker": "Sorter\\SortSystems\\SortSystem.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\SortSystem.cs",
-              "RelativeToolTip": "Sorter\\SortSystems\\SortSystem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:45:19.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RoundSort2.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\RoundSort2.cs",
-              "RelativeDocumentMoniker": "Sorter\\SortSystems\\RoundSort2.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\RoundSort2.cs",
-              "RelativeToolTip": "Sorter\\SortSystems\\RoundSort2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T16:39:47.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RoundSort.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\RoundSort.cs",
-              "RelativeDocumentMoniker": "Sorter\\SortSystems\\RoundSort.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\RoundSort.cs",
-              "RelativeToolTip": "Sorter\\SortSystems\\RoundSort.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:45:06.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Shashki",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Shashki.csproj",
-              "RelativeDocumentMoniker": "Sorter\\Shashki.csproj",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Shashki.csproj",
-              "RelativeToolTip": "Sorter\\Shashki.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-16T16:44:30.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Registry",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\Registry.csproj",
-              "RelativeDocumentMoniker": "RegistrySystem\\Registry.csproj",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\Registry.csproj",
-              "RelativeToolTip": "RegistrySystem\\Registry.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-16T19:10:42.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\User.cs",
-              "RelativeDocumentMoniker": "RegistrySystem\\User.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\User.cs",
-              "RelativeToolTip": "RegistrySystem\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T15:43:18.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Program.cs",
-              "RelativeDocumentMoniker": "Sorter\\Program.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Program.cs",
-              "RelativeToolTip": "Sorter\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T16:39:22.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 13,
               "Title": "Round.cs",
               "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Round.cs",
               "RelativeDocumentMoniker": "Sorter\\Round.cs",
@@ -314,129 +267,11 @@
               "RelativeToolTip": "Sorter\\Round.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:42:27.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T18:42:27.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ITable.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\ITable.cs",
-              "RelativeDocumentMoniker": "Sorter\\ITable.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\ITable.cs",
-              "RelativeToolTip": "Sorter\\ITable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:39:12.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserList.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\UserList.cs",
-              "RelativeDocumentMoniker": "RegistrySystem\\UserList.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\UserList.cs",
-              "RelativeToolTip": "RegistrySystem\\UserList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T15:51:37.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SwissTournament.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\SwissTournament.cs",
-              "RelativeDocumentMoniker": "Sorter\\SortSystems\\SwissTournament.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\SwissTournament.cs",
-              "RelativeToolTip": "Sorter\\SortSystems\\SwissTournament.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T13:49:03.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ITournament.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Tournament\\ITournament.cs",
-              "RelativeDocumentMoniker": "Sorter\\Tournament\\ITournament.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Tournament\\ITournament.cs",
-              "RelativeToolTip": "Sorter\\Tournament\\ITournament.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:48:41.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RoundRobinTournament.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\RoundRobinTournament.cs",
-              "RelativeDocumentMoniker": "Sorter\\SortSystems\\RoundRobinTournament.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\RoundRobinTournament.cs",
-              "RelativeToolTip": "Sorter\\SortSystems\\RoundRobinTournament.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T13:50:25.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IParticipant.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\IParticipant.cs",
-              "RelativeDocumentMoniker": "Sorter\\IParticipant.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\IParticipant.cs",
-              "RelativeToolTip": "Sorter\\IParticipant.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:39:13.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IGame.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\IGame.cs",
-              "RelativeDocumentMoniker": "Sorter\\IGame.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\IGame.cs",
-              "RelativeToolTip": "Sorter\\IGame.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:48:44.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Exceptions.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Exceptions.cs",
-              "RelativeDocumentMoniker": "Sorter\\Exceptions.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Exceptions.cs",
-              "RelativeToolTip": "Sorter\\Exceptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:48:45.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Game.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Game.cs",
-              "RelativeDocumentMoniker": "Sorter\\Game.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Game.cs",
-              "RelativeToolTip": "Sorter\\Game.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T16:39:21.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 1,
               "Title": "Tournament.cs",
               "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Tournament\\Tournament.cs",
               "RelativeDocumentMoniker": "Sorter\\Tournament\\Tournament.cs",
@@ -450,6 +285,126 @@
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "RegistrySystem.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\RegistrySystem.cs",
+              "RelativeDocumentMoniker": "RegistrySystem\\RegistrySystem.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\RegistrySystem.cs",
+              "RelativeToolTip": "RegistrySystem\\RegistrySystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:35:06.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITable.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\ITable.cs",
+              "RelativeDocumentMoniker": "Sorter\\ITable.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\ITable.cs",
+              "RelativeToolTip": "Sorter\\ITable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:39:12.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserList.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\UserList.cs",
+              "RelativeDocumentMoniker": "RegistrySystem\\UserList.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\RegistrySystem\\UserList.cs",
+              "RelativeToolTip": "RegistrySystem\\UserList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:51:37.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SwissTournament.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\SwissTournament.cs",
+              "RelativeDocumentMoniker": "Sorter\\SortSystems\\SwissTournament.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\SwissTournament.cs",
+              "RelativeToolTip": "Sorter\\SortSystems\\SwissTournament.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:49:03.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITournament.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Tournament\\ITournament.cs",
+              "RelativeDocumentMoniker": "Sorter\\Tournament\\ITournament.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Tournament\\ITournament.cs",
+              "RelativeToolTip": "Sorter\\Tournament\\ITournament.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:48:41.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoundRobinTournament.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\RoundRobinTournament.cs",
+              "RelativeDocumentMoniker": "Sorter\\SortSystems\\RoundRobinTournament.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\RoundRobinTournament.cs",
+              "RelativeToolTip": "Sorter\\SortSystems\\RoundRobinTournament.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:50:25.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IParticipant.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\IParticipant.cs",
+              "RelativeDocumentMoniker": "Sorter\\IParticipant.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\IParticipant.cs",
+              "RelativeToolTip": "Sorter\\IParticipant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:39:13.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGame.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\IGame.cs",
+              "RelativeDocumentMoniker": "Sorter\\IGame.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\IGame.cs",
+              "RelativeToolTip": "Sorter\\IGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:48:44.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Exceptions.cs",
+              "RelativeDocumentMoniker": "Sorter\\Exceptions.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Exceptions.cs",
+              "RelativeToolTip": "Sorter\\Exceptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:48:45.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Game.cs",
+              "RelativeDocumentMoniker": "Sorter\\Game.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Game.cs",
+              "RelativeToolTip": "Sorter\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:39:21.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ScheveningenSystem.cs",
               "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\SortSystems\\ScheveningenSystem.cs",
               "RelativeDocumentMoniker": "Sorter\\SortSystems\\ScheveningenSystem.cs",
@@ -457,12 +412,11 @@
               "RelativeToolTip": "Sorter\\SortSystems\\ScheveningenSystem.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:45:10.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T18:45:10.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 20,
               "Title": "RoundGames.cs",
               "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\RoundGames.cs",
               "RelativeDocumentMoniker": "Sorter\\RoundGames.cs",
@@ -470,25 +424,11 @@
               "RelativeToolTip": "Sorter\\RoundGames.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:42:52.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T18:42:52.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Team.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Team.cs",
-              "RelativeDocumentMoniker": "Sorter\\Team.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Team.cs",
-              "RelativeToolTip": "Sorter\\Team.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T15:07:41.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 21,
               "Title": "CheckersGame.cs",
               "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\\u0416\u0435\u0441\u043A\u0438\u0439 \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\\CheckersGame.cs",
               "RelativeDocumentMoniker": "Sorter\\\u0416\u0435\u0441\u043A\u0438\u0439 \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\\CheckersGame.cs",
@@ -496,25 +436,11 @@
               "RelativeToolTip": "Sorter\\\u0416\u0435\u0441\u043A\u0438\u0439 \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\\CheckersGame.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T17:40:16.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T17:40:16.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Participant.cs",
-              "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Participant.cs",
-              "RelativeDocumentMoniker": "Sorter\\Participant.cs",
-              "ToolTip": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Participant.cs",
-              "RelativeToolTip": "Sorter\\Participant.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:45:01.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 22,
               "Title": "IRound.cs",
               "DocumentMoniker": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\IRound.cs",
               "RelativeDocumentMoniker": "Sorter\\IRound.cs",
@@ -522,8 +448,11 @@
               "RelativeToolTip": "Sorter\\IRound.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:39:00.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T18:39:00.39Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             }
           ]
         }
