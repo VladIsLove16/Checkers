@@ -2,13 +2,14 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Shashki;
 
-namespace Sorter
+namespace Shashki.SortSystems
 {
     public class RoundSort : SortSystem
     {
         private Participant[] participants;
-        public RoundSort(int numberOfParticipants) 
+        public RoundSort(int numberOfParticipants)
         {
             participants = new Participant[numberOfParticipants];
             for (int i = 0; i < numberOfParticipants; i++)

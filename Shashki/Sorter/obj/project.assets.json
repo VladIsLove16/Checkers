@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Sorter.csproj",
-      "projectName": "Sorter",
-      "projectPath": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Sorter.csproj",
+      "projectUniqueName": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Shashki.csproj",
+      "projectName": "Shashki",
+      "projectPath": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\Shashki.csproj",
       "packagesPath": "C:\\Users\\VladMyLove\\.nuget\\packages\\",
       "outputPath": "D:\\Subjects\\PD\\Shashki\\Shashki\\Sorter\\obj\\",
       "projectStyle": "PackageReference",

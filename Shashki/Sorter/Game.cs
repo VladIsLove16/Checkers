@@ -1,20 +1,38 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace Sorter
+namespace Shashki
 {
-    public class Game
+    public class Game : IGame
     {
-        public Participant WhitePlayer { get; }
-        public Participant BlackPlayer { get; }
-
-        public Game(Participant white, Participant black)
+        private GameResult gameResult;
+        public Game(int round, IParticipant participantWhite, IParticipant participantBlack)
         {
-            WhitePlayer = white;
-            BlackPlayer = black;
+            Round = round;
+            PlayerWhite = participantWhite;
+            PlayerBlack = participantBlack;
         }
+        public int Round { get; }
+
+        public IParticipant PlayerWhite { get; }
+
+        public IParticipant PlayerBlack { get; }
+
+        public GameResult Result
+        {
+            get
+            {
+                return gameResult;
+            }
+            set
+            {
+                gameResult = value;
+                ResultSet?.Invoke(this, EventArgs.Empty);
+            }
+        }
+
+        public event EventHandler? ResultSet;
     }
 }

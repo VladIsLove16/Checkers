@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sorter
+namespace Shashki
 {
     public class RoundGames : List<Game>
     {
