@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'Jost';
+    src: url('/fonts/Jost-Regular.ttf') format('truetype'), url('/fonts/Jost-SemiBold.ttf') format('truetype'), url('/fonts/Jost-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    --font-primary: 'JostRegular', sans-serif;
+    --font-primary-bold: 'Jost-SemiBold', sans-serif;
+    --font-primary-medium: 'Jost-Medium', sans-serif;
+    --color-primary: #000000;
+    --color-second: white;
+    --color-primary-second: #7979FF;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+*,
+*:after,
+*::before {
+    box-sizing: inherit;
+}
+body {
+    background-color: var(--color-primary);
+    color: var(--color-second);
+    font-family: var(--font-primary)
+}
+h1, h2 {
+    font-family: var(--font-primary-bold)
+}
+h3 {
+   font-family: var(--font-primary-medium)
+}
+.header-start-reg {
+    margin: 0 auto;
+    font-size: 6.6rem;
+    margin-bottom:2rem;
+    margin-top:8rem;
+    text-align: center;
+}
+.flex-main {
+    display: flex;
+    gap: 3rem;
+    flex-direction: column;
+    text-align: center;
+    align-items: center
+}
+.list-var-reg {
+    list-style-type:none;
+    padding:0;
+    
+}
+.link-reg {
+    background-color: #7979FF;
+    color: var(--color-second);
+    border-radius: 1.6rem;
+    padding: 1.9rem 10rem;
+    font-family: var(--font-primary-bold);
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: none;
+    font-family: var(--font-primary-bold);
+    font-weight: 600;
+}
+a:hover {
+    border: 0.2rem solid #FF913C;
+}
+.img-icon {
+        width: 16.2rem;
+    }
+
+.list-var-reg {
+    display: flex;
+    gap: 6rem;
+    justify-content: center
+}
+.questions {
+    font-family: var(--font-primary-medium);
+    font-size: 2.4rem;
+}
+.link-authoriz {
+    width: 18.9rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 4.5rem;
+    margin-top: -1.5rem;
+
+}

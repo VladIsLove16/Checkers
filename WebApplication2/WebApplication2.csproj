@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Views\Hom\**" />
+    <Content Remove="Views\Hom\**" />
+    <EmbeddedResource Remove="Views\Hom\**" />
+    <None Remove="Views\Hom\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Home\entrance.cshtml" />
+    <Content Remove="Views\Home\main_sections\choice-system.cshtml" />
+    <Content Remove="Views\Home\main_sections\history.cshtml" />
+    <Content Remove="Views\Home\main_sections\main-str.cshtml" />
+    <Content Remove="Views\Home\main_sections\profile.cshtml" />
+    <Content Remove="Views\Home\main_sections\result.cshtml" />
+    <Content Remove="Views\Home\main_sections\setting-game-player.cshtml" />
+    <Content Remove="Views\Home\main_sections\settings-game-arbiter-players.cshtml" />
+    <Content Remove="Views\Home\main_sections\settings-game-arbiter.cshtml" />
+    <Content Remove="Views\Home\main_sections\settings.cshtml" />
+    <Content Remove="Views\Home\reg-arbitr.cshtml" />
+    <Content Remove="Views\Home\reg-player.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Home\main_sections\choice-system.cshtml" />
+    <None Include="Views\Home\main_sections\history.cshtml" />
+    <None Include="Views\Home\main_sections\main-str.cshtml" />
+    <None Include="Views\Home\main_sections\profile.cshtml" />
+    <None Include="Views\Home\main_sections\result.cshtml" />
+    <None Include="Views\Home\main_sections\setting-game-player.cshtml" />
+    <None Include="Views\Home\main_sections\settings-game-arbiter-players.cshtml" />
+    <None Include="Views\Home\main_sections\settings-game-arbiter.cshtml" />
+    <None Include="Views\Home\main_sections\settings.cshtml" />
+    <None Include="Views\Home\start_reg\entrance.cshtml" />
+    <None Include="Views\Home\start_reg\Reg_arbitr.cshtml" />
+    <None Include="Views\Home\start_reg\Reg_player.cshtml" />
+  </ItemGroup>
+
+</Project>
