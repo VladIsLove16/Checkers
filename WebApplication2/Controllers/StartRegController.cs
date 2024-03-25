@@ -7,7 +7,7 @@ namespace WebApplication2.Controllers
         {
             public IActionResult Index()
             {
-                return View();
+                return View("~/Views/Home/start_reg/Index.cshtml");
             }
         public IActionResult Entrance()
         {
