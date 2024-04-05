@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tTsvosxgPHzl8pfMSsXvBG53oSMYjQI4E3o5W1HLTocZjFm378k7QaQ04znu3K+KfVH7br/hZybeztGHdl5inA==",
+  "dgSpecHash": "rcPziGScKVH2SI4QeGzp3duM+4LsxnIzz4Ma8O6EEX7V8hgTwCW7da+dkAGb/n7TlfgD8g9vFC7LeSKV1BfgMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "projectFilePath": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\WebApplication2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
