@@ -3,49 +3,28 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="/css/site.css" />
+    <link rel="stylesheet" href="style.css" />
     <title>Arbitr</title>
   </head>
   <body>
-    <header class="header-start">
-      <h1 class="header-start-reg" style="margin-bottom: 0">АРБИТРИУМ</h1>
-      <h2 class="header-start-reg-h2" style="font-size: 4rem">СУДЬЯ</h2>
-      <h3 class="header-start-reg-h3">регистрация</h3>
+    <header>
+      <h1 class="header-start-reg">АРБИТРИУМ</h1>
+      <h2>СУДЬЯ</h2>
     </header>
     <main class="flex-main">
-      <ul class="list_input" style="gap: 1.7rem">
+      <h3>регистрация</h3>
+      <ul class="">
         <li>
-          <label for=""
-            ><input
-              class="input"
-              type="email"
-              name=""
-              id=""
-              placeholder="email/телефон"
-          /></label>
+          <label for=""><input type="email" name="" id="" /></label>
         </li>
         <li>
-          <label for=""
-            ><input
-              class="input"
-              type="password"
-              name=""
-              id=""
-              placeholder="пароль"
-          /></label>
+          <label for=""><input type="password" name="" id="" /></label>
         </li>
         <li>
-          <label for=""
-            ><input
-              class="input"
-              type="password"
-              name=""
-              id=""
-              placeholder="повторить пароль"
-          /></label>
+          <label for=""><input type="password" name="" id="" /></label>
         </li>
       </ul>
-        <a class="a-reg" style="font-size: 1.8rem" href="@Url.Action("Entrance", "Home")">ВОЙТИ</a>
+        <a href="@Url.Action("entrance", "StartReg")">ВОЙТИ</a>
     </main>
     <footer></footer>
   </body>
