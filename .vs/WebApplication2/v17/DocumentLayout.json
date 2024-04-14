@@ -1,9 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\",
+  "WorkspaceRootPath": "D:\\Subjects\\PD\\Checkers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|c:\\users\\dns\\source\\repos\\webapplication2\\checkers\\webapplication2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\home\\choicesystem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\choicesystem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\viewmodels\\viewmodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\viewmodels\\viewmodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\home\\entrance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\entrance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\home\\mainstr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\mainstr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\home\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\home\\settings-game-arbiter-players.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\settings-game-arbiter-players.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\home\\settings-game-arbiter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\settings-game-arbiter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\home\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\home\\setting-game-player.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\setting-game-player.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\home\\reg_player.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\reg_player.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\home\\reg_arbitr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\reg_arbitr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|d:\\subjects\\pd\\checkers\\webapplication2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -14,20 +106,329 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChoiceSystem.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\ChoiceSystem.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\ChoiceSystem.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\ChoiceSystem.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\ChoiceSystem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:12:42.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "entrance.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\entrance.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\entrance.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\entrance.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\entrance.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:57:41.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:30:26.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:57:22.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModelTest.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\ViewModels\\ViewModelTest.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\ViewModels\\ViewModelTest.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\ViewModels\\ViewModelTest.cs",
+              "RelativeToolTip": "WebApplication2\\ViewModels\\ViewModelTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:14:19.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "history.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\history.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\history.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\history.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\history.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T16:21:08.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:15:34.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:30:00.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Person.cs",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Models\\Person.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:01:04.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainStr.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\MainStr.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\MainStr.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\MainStr.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\MainStr.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:15:56.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "profile.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\profile.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\profile.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\profile.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T16:20:45.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:58:08.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T16:21:27.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "settings-game-arbiter.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\settings-game-arbiter.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\settings-game-arbiter.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\settings-game-arbiter.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\settings-game-arbiter.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T16:21:21.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "settings.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\settings.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\settings.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\settings.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\settings.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T16:21:19.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "setting-game-player.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\setting-game-player.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\setting-game-player.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\setting-game-player.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\setting-game-player.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T16:21:18.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "result.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\result.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\result.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\result.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\result.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T16:21:17.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Reg_player.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\Reg_player.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Reg_player.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\Reg_player.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Reg_player.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T16:21:15.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Reg_arbitr.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\Reg_arbitr.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Reg_arbitr.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\Reg_arbitr.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Reg_arbitr.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T16:21:16.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "settings-game-arbiter-players.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\settings-game-arbiter-players.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\settings-game-arbiter-players.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Home\\settings-game-arbiter-players.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\settings-game-arbiter-players.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:58:13.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:58:12.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:58:10.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T15:01:06.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\wwwroot\\css\\site.css",
               "RelativeToolTip": "WebApplication2\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAANgBAAAAAAAAAAAAAOEBAAAAAAAA",
+              "ViewState": "AQIAAHsBAAAAAAAAAAAAAOEBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-04-05T07:16:45.605Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1883,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

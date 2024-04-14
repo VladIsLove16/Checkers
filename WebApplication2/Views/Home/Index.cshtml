@@ -20,7 +20,11 @@
         <div class="questions">Уже есть учетная запись?</div>
         <a class="link-reg link-authoriz" href="@Url.Action("Entrance", "Home")">ВОЙТИ</a>
         <a class="link-reg link-authoriz" href="@Url.Action("MainStr", "Home")">ВОЙТwecИ</a>
-
+        <form method="post">
+            <label>User Name:</label><br />
+            <input type="text" name="username" /><br />
+            <input type="submit" value="Send" />
+        </form>
     </main>
 
 

@@ -9,87 +9,87 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication2
 build_property.RootNamespace = WebApplication2
-build_property.ProjectDir = C:\Users\DNS\source\repos\WebApplication2\Checkers\WebApplication2\
+build_property.ProjectDir = D:\Subjects\PD\Checkers\WebApplication2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\DNS\source\repos\WebApplication2\Checkers\WebApplication2
+build_property.MSBuildProjectDirectory = D:\Subjects\PD\Checkers\WebApplication2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/ChoiceSystem.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Home/ChoiceSystem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaG9pY2VTeXN0ZW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/entrance.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Home/entrance.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxlbnRyYW5jZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/history.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Home/history.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxoaXN0b3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/Index.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/MainStr.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Home/MainStr.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWluU3RyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/profile.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Home/profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/Reg_arbitr.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Home/Reg_arbitr.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdfYXJiaXRyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/Reg_player.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Home/Reg_player.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdfcGxheWVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/result.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Home/result.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZXN1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/setting-game-player.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Home/setting-game-player.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzZXR0aW5nLWdhbWUtcGxheWVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/settings-game-arbiter-players.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Home/settings-game-arbiter-players.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzZXR0aW5ncy1nYW1lLWFyYml0ZXItcGxheWVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/settings-game-arbiter.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Home/settings-game-arbiter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzZXR0aW5ncy1nYW1lLWFyYml0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/settings.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Home/settings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzZXR0aW5ncy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Shared/Error.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Shared/Index.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Shared/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/_ViewImports.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/_ViewStart.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Shared/_Layout.cshtml]
+[D:/Subjects/PD/Checkers/WebApplication2/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-amt9qciysm

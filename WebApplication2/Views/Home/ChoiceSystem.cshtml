@@ -1,3 +1,6 @@
+@using WebApplication2.Models
+@using WebApplication2.ViewModels
+@model ViewModelTest
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -42,7 +45,7 @@
                 каждый участник соревнований или каждая команда поочередно
                 встречается со всеми остальными участниками или командами в один
                 или несколько кругов.
-              </p>
+              </p>Имя: @Model.Person.Name<p>
               <button class="btn_choice_system">выбрать</button>
             </div>
           </div>

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\WebApplication2.csproj": {}
+    "D:\\Subjects\\PD\\Checkers\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\WebApplication2.csproj": {
+    "D:\\Subjects\\PD\\Checkers\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\WebApplication2.csproj",
-        "packagesPath": "C:\\Users\\DNS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\obj\\",
+        "projectPath": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\WebApplication2.csproj",
+        "packagesPath": "C:\\Users\\VladMyLove\\.nuget\\packages\\",
+        "outputPath": "D:\\Subjects\\PD\\Checkers\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DNS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VladMyLove\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

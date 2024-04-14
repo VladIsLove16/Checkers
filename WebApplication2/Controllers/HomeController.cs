@@ -1,6 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Diagnostics;
+using System.Xml.Linq;
 using WebApplication2.Models;
+using WebApplication2.ViewModels;
 
 namespace WebApplication2.Controllers
 {
@@ -12,8 +15,17 @@ namespace WebApplication2.Controllers
         {
             _logger = logger;
         }
+        [HttpGet]
         public IActionResult Index()
         {
+            return View("Index");
+        }
+        [HttpPost]
+        public IActionResult Index(string username)
+        {
+            var context = ControllerContext.HttpContext;
+            context.Session.Set<Person>("Person",new Person() { Name= username });
+            context.Response.Cookies.Append("name", username);
             return View("Index");
         }
 
@@ -39,7 +51,10 @@ namespace WebApplication2.Controllers
 
         public IActionResult ChoiceSystem()
         {
-            return View("ChoiceSystem");
+            var context= ControllerContext.HttpContext;
+            var model = new ViewModelTest();
+                model.Person.Name = context.Request.Cookies["name"]??"Имя пусто";
+            return View(model);
         }
 
         public IActionResult History()
