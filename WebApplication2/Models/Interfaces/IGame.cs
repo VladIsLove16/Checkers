@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Shashki
+namespace WebApplication2.Models.Interfaces
 {
     public enum GameResult
     {

@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using WebApplication2.Models;
+using WebApplication2.ViewModels;
 
 namespace WebApplication2.Controllers
 {
@@ -43,7 +44,8 @@ namespace WebApplication2.Controllers
 
         public IActionResult ChoiceSystem()
         {
-            return View("ChoiceSystem");
+            
+            return View();
         }
 
         public IActionResult History()
@@ -63,7 +65,8 @@ namespace WebApplication2.Controllers
 
         public IActionResult SettingGameFirst()
         {
-            return View("SettingGameFirst");
+            var SettingGame=new SettingGame();
+            return View(SettingGame);
         }
 
         public IActionResult Settings()

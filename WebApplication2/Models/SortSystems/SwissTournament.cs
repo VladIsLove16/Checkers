@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Shashki;
+using WebApplication2.Models.Interfaces;
 
-namespace Shashki
+namespace WebApplication2.Models.SortSystems
 {
     public class SwissTournament : Tournament
     {

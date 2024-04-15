@@ -1,3 +1,6 @@
+@using WebApplication2.ViewModels
+@using WebApplication2.Models
+@model SettingGame
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,7 +35,7 @@
     <main class="main_sect">
         <ul class="list_settings">
             <li class="li_set_game">
-                <h3 id="name_system">ШВЕЙЦАРСКАЯ СИСТЕМА</h3>
+                <h3 id="name_system">Система сортировки: @Model.SortSystem</h3>
             </li>
             <li class="li_set_game">
                 <h4>число участников</h4>

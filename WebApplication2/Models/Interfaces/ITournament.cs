@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Shashki
+namespace WebApplication2.Models.Interfaces
 {
     public enum TournamentType
     {
@@ -15,7 +15,6 @@ namespace Shashki
         public int ParticipantCount { get; }
         public int RoundCount { get; }
         public int CurrentRound { get; }
-        public TournamentType Type { get; }
         public bool IsStarted { get; }
         public bool IsFinished { get; }
         public void AddParticipant(IParticipant participant);

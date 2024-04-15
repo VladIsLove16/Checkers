@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WebApplication2.Models;
 
-namespace Shashki
+namespace WebApplication2.Models.SortSystems
 {
-    public abstract class SortSystem
+    public abstract class SortSystemBase
     {
-        public SortSystem()
+        public SortSystemBase()
         {
         }
         public abstract List<RoundGames> CreateTournamentSchedule();

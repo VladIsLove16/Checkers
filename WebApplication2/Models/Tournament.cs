@@ -2,7 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-namespace Shashki
+using WebApplication2.Models.Interfaces;
+using WebApplication2.Models.SortSystems;
+namespace WebApplication2.Models
 {
     public abstract class Tournament : ITournament
     {
@@ -17,20 +19,6 @@ namespace Shashki
         public abstract int RoundCount { get; }
 
         public int CurrentRound => currentRound;
-
-        public TournamentType Type
-        {
-            get
-            {
-                return GetType().Name switch
-                {
-                    nameof(RoundRobinTournament) => TournamentType.RoundRobin,
-                    nameof(SwissTournament) => TournamentType.Swiss,
-                    _ => TournamentType.Swiss
-                };
-            }
-        }
-
 
         public bool IsStarted => isStarted;
 

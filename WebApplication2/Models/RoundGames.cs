@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Shashki
+namespace WebApplication2.Models
 {
     public class RoundGames : List<Game>
     {

@@ -2,8 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WebApplication2.Models.Interfaces;
 
-namespace Shashki
+namespace WebApplication2.Models
 {
     public class Round : List<IGame>, IRound
     {

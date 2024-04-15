@@ -2,8 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WebApplication2.Models.Interfaces;
 
-namespace Shashki
+namespace WebApplication2.Models
 {
     public class Participant : IParticipant
     {
@@ -17,9 +18,9 @@ namespace Shashki
         public double Score
         {
             get => Games.Sum(g =>
-                (g.PlayerWhite == this && g.Result == GameResult.WhiteWon)
-                || (g.PlayerBlack == this && g.Result == GameResult.BlackWon) ? 1 :
-                    (g.Result == GameResult.Draw ? 0.5 : 0));
+                g.PlayerWhite == this && g.Result == GameResult.WhiteWon
+                || g.PlayerBlack == this && g.Result == GameResult.BlackWon ? 1 :
+                    g.Result == GameResult.Draw ? 0.5 : 0);
         }
 
         public Participant()

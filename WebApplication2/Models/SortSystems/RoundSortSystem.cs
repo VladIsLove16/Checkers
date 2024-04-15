@@ -2,14 +2,14 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Shashki;
+using WebApplication2.Models;
 
-namespace Shashki
+namespace WebApplication2.Models.SortSystems
 {
-    public class RoundSort : SortSystem
+    public class RoundSortSystem : SortSystemBase
     {
         private Participant[] participants;
-        public RoundSort(int numberOfParticipants)
+        public RoundSortSystem(int numberOfParticipants)
         {
             participants = new Participant[numberOfParticipants];
             for (int i = 0; i < numberOfParticipants; i++)
@@ -57,7 +57,7 @@ namespace Shashki
                     var player1 = participants[player1Order - 1];
                     var player2 = participants[player2Order - 1];
 
-                    if (tournamentSchedule.Count > 0 && tournamentSchedule[tournamentSchedule.Count - 1].Find(game => game.WhitePlayer == player1) != null)
+                    if (tournamentSchedule.Count > 0 && tournamentSchedule[tournamentSchedule.Count - 1].Find(game => game.PlayerWhite == player1) != null)
                     {
                         games.Add(player2, player1);
                     }
