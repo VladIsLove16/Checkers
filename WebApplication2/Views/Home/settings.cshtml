@@ -1,40 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>settings</title>
     <link rel="stylesheet" href="/css/site.css" asp-append-version="true" />
-  </head>
-  <body>
+</head>
+<body style="display: flex; flex-direction: column; height: 100%">
     <header class="header_main">
-      <h2>НАСТРОЙКИ</h2>
-      <div>
-        <h1>АРБИТРИУМ</h1>
-      </div>
-      <a href="profile.html" class="profile"
-        ><img src="/img/user.svg" alt=""
-      /></a>
+        <div class="h3_and_burger">
+            <h3 class="h3_turnirs">НАСТРОЙКИ</h3>
+            <a class="a_burger_header" href="@Url.Action("MainStr", "Home")">
+                <img src="/img/ic_menu_48px.svg"
+                     alt="Значок меню, возвращающий на главную страницу" />
+            </a>
+        </div>
+        <div class="list_header" style="background-color: black">
+            <h1 style="
+            margin-top: 2rem;
+            font-size: 4rem;
+            margin-bottom: 0;
+            width: 20rem;
+            align-self: center;
+          ">
+                АРБИТРИУМ
+            </h1>
+        </div>
+        <div class="a_profile_div">
+            <a href="@Url.Action("Profile", "Home")" class="profile">
+                <img class="profile-img"
+                     src="/img/user.svg"
+                     alt="значок профиля - кнопка, переход на профиль пользователя" />
+            </a>
+        </div>
     </header>
     <main class="main_sect">
-      <h2>НАСТРОЙКИ</h2>
-      <img src="/img/ic_menu_48px.svg" alt="" />
-      <ul>
-        <li>
-          <h3>ЯРКОСТЬ</h3>
-          <input type="range" />
-        </li>
-        <li>
-          <h3>РАЗМЕР ТЕКСТА</h3>
-          <div><button>Aa</button><button>Aa</button><button>Aa</button></div>
-        </li>
-        <li>
-          <h3>ЯЗЫК</h3>
-          <div><button>RU</button><button>ENG</button></div>
-        </li>
-      </ul>
-      <a href=""><img src="/img/ic_forward_48px.svg" alt="" /></a>
-      <a href="choice-system.html">sssssssssssssssssssss</a>
+        <ul class="list_settings">
+            <li class="li_set">
+                <h3>ЯРКОСТЬ</h3>
+                    <input value="0" type="range" class="slider" />   
+            </li>
+            <li class="li_set">
+                <h3>РАЗМЕР ТЕКСТА</h3>
+                <div class="list_btn_set">
+                    <button class="btn_set" style="font-weight: 100">
+                        Aa
+                    </button><button class="btn_set" style="font-weight: 600">
+                        Aa
+                    </button><button class="btn_set" style="font-weight: 900">Aa</button>
+                </div>
+            </li>
+            <li class="li_set">
+                <h3>ЯЗЫК</h3>
+                <div class="list_btn_set">
+                    <button class="btn_set">
+                        RU
+                    </button><button class="btn_set">ENG</button>
+                </div>
+            </li>
+        </ul>
+        <a href=""><img src="/img/ic_forward_48px.svg" alt="" /></a>
     </main>
-  </body>
+</body>
 </html>

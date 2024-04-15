@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|c:\\users\\dns\\source\\repos\\webapplication2\\checkers\\webapplication2\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|c:\\users\\dns\\source\\repos\\webapplication2\\checkers\\webapplication2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|c:\\users\\dns\\source\\repos\\webapplication2\\checkers\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|c:\\users\\dns\\source\\repos\\webapplication2\\checkers\\webapplication2\\views\\home\\settinggamethird.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\settinggamethird.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|c:\\users\\dns\\source\\repos\\webapplication2\\checkers\\webapplication2\\views\\home\\settinggamefirst.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\settinggamefirst.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|c:\\users\\dns\\source\\repos\\webapplication2\\checkers\\webapplication2\\views\\home\\choicesystem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\choicesystem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|c:\\users\\dns\\source\\repos\\webapplication2\\checkers\\webapplication2\\views\\home\\settinggamesecond.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\settinggamesecond.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|c:\\users\\dns\\source\\repos\\webapplication2\\checkers\\webapplication2\\views\\home\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|c:\\users\\dns\\source\\repos\\webapplication2\\checkers\\webapplication2\\views\\home\\mainstr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\mainstr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|c:\\users\\dns\\source\\repos\\webapplication2\\checkers\\webapplication2\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BCF74B-B0A3-4811-BEB5-45BC2AB4F1AD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +55,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "result.cshtml",
+              "DocumentMoniker": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\result.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\result.cshtml",
+              "ToolTip": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\result.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\result.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAlwEIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T18:35:13.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingGameThird.cshtml",
+              "DocumentMoniker": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\SettingGameThird.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\SettingGameThird.cshtml",
+              "ToolTip": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\SettingGameThird.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\SettingGameThird.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T18:16:20.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingGameSecond.cshtml",
+              "DocumentMoniker": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\SettingGameSecond.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\SettingGameSecond.cshtml",
+              "ToolTip": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\SettingGameSecond.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\SettingGameSecond.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T18:07:02.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingGameFirst.cshtml",
+              "DocumentMoniker": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\SettingGameFirst.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\SettingGameFirst.cshtml",
+              "ToolTip": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\SettingGameFirst.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\SettingGameFirst.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T18:05:03.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChoiceSystem.cshtml",
+              "DocumentMoniker": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\ChoiceSystem.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\ChoiceSystem.cshtml",
+              "ToolTip": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\ChoiceSystem.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\ChoiceSystem.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAQwFcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T09:09:29.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainStr.cshtml",
+              "DocumentMoniker": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\MainStr.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\MainStr.cshtml",
+              "ToolTip": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\MainStr.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\MainStr.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T09:06:17.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\profile.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\profile.cshtml",
+              "ToolTip": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\profile.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T09:04:57.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "settings.cshtml",
+              "DocumentMoniker": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\settings.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\settings.cshtml",
+              "ToolTip": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Views\\Home\\settings.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\settings.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T07:45:54.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAA5wFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:00:36.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\wwwroot\\css\\site.css",
               "RelativeToolTip": "WebApplication2\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAANgBAAAAAAAAAAAAAOEBAAAAAAAA",
+              "ViewState": "AQIAAM0DAAAAAAAAAAAqwNUDAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-05T07:16:45.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T07:16:45.605Z"
             }
           ]
         }

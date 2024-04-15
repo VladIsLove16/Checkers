@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Settings for player</title>
+    <link rel="stylesheet" href="/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="header_main" style="padding-bottom: 4rem">
+        <div class="h3_and_burger">
+            <h3 class="h3_turnirs">ТУРНИРЫ</h3>
+            <a class="a_burger_header" href="/main_sections/main-str.html">
+                <img src="/img/ic_menu_48px.svg"
+                     alt="Значок меню, возвращающий на главную страницу" />
+            </a>
+        </div>
+        <div class="list_header" style="background-color: black">
+            <h1 style="margin-top: 2rem; font-size: 4rem; margin-bottom: 0">
+                АРБИТРИУМ
+            </h1>
+            <h2 style="font-size: 3rem; margin-top: 0">НАСТРОЙКИ ИГРЫ</h2>
+        </div>
+        <div class="a_profile_div">
+            <a href="profile.html" class="profile">
+                <img class="profile-img"
+                     src="/img/user.svg"
+                     alt="значок профиля - кнопка, переход на профиль пользователя" />
+            </a>
+        </div>
+    </header>
+    <main class="main_sect">
+        <ul class="list_settings">
+            <li class="li_set_game">
+                <h3 id="name_system">ШВЕЙЦАРСКАЯ СИСТЕМА</h3>
+            </li>
+            <li class="li_set_game">
+                <h4>число участников</h4>
+                <div class="div_numb">
+                    <label for="">
+                        <input style="background-image: url(/img/ic_group_add_48px.svg)"
+                               class="input_numb"
+                               type="text"
+                               class="number"
+                               placeholder="0" />
+                    </label>
+                </div>
+            </li>
+            <li class="li_set_game">
+                <h4>призовые места</h4>
+                <div class="div_numb">
+                    <label for="">
+                        <input style="background-image: url(/img/ic_star_24px.svg)"
+                               type="text"
+                               class="input_numb"
+                               placeholder="0" />
+                    </label>
+                </div>
+            </li>
+            <li class="li_set_game" style="border: 0.1rem solid white">
+                <a class="a_set_game" href="@Url.Action("SettingGameSecond", "Home")">
+                    <img src="/img/ic_content_paste_48px.svg" alt="" />
+                    <h4>заполнить ФИО участников</h4>
+                </a>
+            </li>
+        </ul>
+    </main>
+    <footer>
+        <a class="back_strela"
+           style="margin-left: 5rem; height: 5rem; display: block; width: 7rem"
+           href="">
+            <img src="/img/ic_forward_48px.svg"
+                 alt="кнопка, возврающая на один шаг назад (на прошлую страницу)" />
+        </a>
+    </footer>
+</body>
+</html>

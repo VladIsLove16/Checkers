@@ -7,7 +7,14 @@
     <script src="~/js/choice-system.js" defer></script>
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
   </head>
-  <body class="back_fon_system" id="backFon">
+<body style="background-image: url(/img/Frame-system.png);
+  background-position: 0rem 21rem;
+  background-repeat: no-repeat;
+  background-size: 136rem 47rem;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;" id="backFon">
     <header class="header_main">
       <div class="h3_and_burger">
         <h3 class="h3_turnirs">ТУРНИРЫ</h3>
@@ -43,7 +50,7 @@
                 встречается со всеми остальными участниками или командами в один
                 или несколько кругов.
               </p>
-              <button class="btn_choice_system">выбрать</button>
+              <a class="btn_choice_system">выбрать</a>
             </div>
           </div>
         </li>
@@ -58,9 +65,9 @@
                 условиям соревнований, устанавливается определенное количество
                 туров
               </p>
-              <button class="btn_choice_system" style="margin-top: 1.5rem">
+              <a class="btn_choice_system" style="margin-top: 1.5rem">
                 выбрать
-              </button>
+              </a>
             </div>
           </div>
         </li>
@@ -74,15 +81,15 @@
                 участники одной команды (группы) поочередно играют с
                 представителями другой команды 
               </p>
-              <button class="btn_choice_system" style="margin-top: 5rem">
+              <a class="btn_choice_system" style="margin-top: 5rem">
                 выбрать
-              </button>
+              </a>
             </div>
           </div>
         </li>
         <li class="system">
           <div class="description_system">
-            <button class="btn_system_description" id="system_4">
+           <button class="btn_system_description" id="system_4" ">
               швейцарская
             </button>
             <div class="desc_without_btn1" id="desc4" style="display: none">
@@ -91,7 +98,7 @@
                 высокое место. В результате победителем оказывается игрок, не
                 проигравший ни одного матча.
               </p>
-              <button class="btn_choice_system">выбрать</button>
+                <a class="btn_choice_system" href="@Url.Action("SettingGameFirst", "Home")">выбрать</a>
             </div>
           </div>
         </li>

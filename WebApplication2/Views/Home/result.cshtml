@@ -1,26 +1,87 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Result</title>
     <link rel="stylesheet" href="/css/site.css" asp-append-version="true" />
-  </head>
-  <body>
-    <header class="header_main">
-      <h3>ТУРНИРЫ</h3>
-      <div>
-        <h1>АРБИТРИУМ</h1>
-        <h2>РЕЗУЛЬТАТЫ</h2>
-      </div>
-      <a href="profile.html" class="profile"
-        ><img src="/img/user.svg" alt=""
-      /></a>
+    <script src="/js/result.js" defer></script>
+</head>
+<body>
+    <header class="header_main" style="padding-bottom: 4rem">
+        <div class="h3_and_burger">
+            <h3 class="h3_turnirs">ТУРНИРЫ</h3>
+            <a class="a_burger_header" href="/main_sections/main-str.html">
+                <img src="/img/ic_menu_48px.svg"
+                     alt="Значок меню, возвращающий на главную страницу" />
+            </a>
+        </div>
+        <div class="list_header" style="background-color: black">
+            <h1 style="margin-top: 2rem; font-size: 4rem; margin-bottom: 0">
+                АРБИТРИУМ
+            </h1>
+            <h2 style="font-size: 3rem; margin-top: 0">РЕЗУЛЬТАТЫ</h2>
+        </div>
+        <div class="a_profile_div">
+            <a href="profile.html" class="profile">
+                <img class="profile-img"
+                     src="/img/user.svg"
+                     alt="значок профиля - кнопка, переход на профиль пользователя" />
+            </a>
+        </div>
     </header>
     <main class="main_sect">
-      <img src="/img/ic_menu_48px.svg" alt="" />
-      <a href=""><img src="/img/ic_forward_48px.svg" alt="" /></a>
-      <a href="setting-game-player.html">ddddddddddddd</a>
+        <ul class="list_btn_tabs">
+            <li><button class="btn_tabs" id="btnTabs1">1</button></li>
+            <li><button class="btn_tabs" id="btnTabs2">2</button></li>
+            <li><button class="btn_tabs" id="btnTabs3">3</button></li>
+            <li><button class="btn_tabs" id="btnTabs4">4</button></li>
+            <li><button class="btn_tabs" id="btnTabs5">5</button></li>
+            <li><button class="btn_tabs" id="btnTabs6">6</button></li>
+            <li><button class="btn_tabs" id="btnTabs7">7</button></li>
+        </ul>
+        <div class="div_grid_result">
+            <h4 class="game1">ИГРА 1</h4>
+            <p class="id_game1" style="color: #ff913c">id</p>
+            <p class="id_game2" style="color: #ff913c">id</p>
+            <p class="name1">фио игрока</p>
+            <p class="name2">фио игрока</p>
+            <p class="result1">результат</p>
+            <p class="result2">результат</p>
+            <h4 class="game2">ИГРА 2</h4>
+            <p class="id_game3" style="color: #ff913c">id</p>
+            <p class="id_game4" style="color: #ff913c">id</p>
+            <p class="name3">фио игрока</p>
+            <p class="name4">фио игрока</p>
+            <p class="result3">результат</p>
+            <p class="result4">результат</p>
+            <h4 class="game3">ИГРА 3</h4>
+            <p class="id_game5" style="color: #ff913c">id</p>
+            <p class="id_game6" style="color: #ff913c">id</p>
+            <p class="name5">фио игрока</p>
+            <p class="name6">фио игрока</p>
+            <p class="result5">результат</p>
+            <p class="result6">результат</p>
+            <h4 class="game4">ИГРА 4</h4>
+            <p class="id_game7" style="color: #ff913c">id</p>
+            <p class="id_game8" style="color: #ff913c">id</p>
+            <p class="name7">фио игрока</p>
+            <p class="name8">фио игрока</p>
+            <p class="result7">результат</p>
+            <p class="result8">результат</p>
+        </div>
+        <ul class="list_btn_tabs" style="margin-left: 24rem">
+            <li><button class="btn_set_game">сохранить</button></li>
+            <li><button class="btn_set_game">расчет итогов</button></li>
+        </ul>
     </main>
-  </body>
+    <footer>
+        <a class="back_strela"
+           style="margin-left: 5rem; height: 5rem; display: block; width: 7rem"
+           href="">
+            <img src="/img/ic_forward_48px.svg"
+                 alt="кнопка, возврающая на один шаг назад (на прошлую страницу)" />
+        </a>
+    </footer>
+</body>
 </html>

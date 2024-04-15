@@ -1,15 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Profile</title>
     <link rel="stylesheet" href="/css/site.css" asp-append-version="true" />
-  </head>
-  <body>
-    <header></header>
+</head>
+<body class="body-profile">
+    <header class="header_main_profile">
+        <div class="h3_and_burger">
+            <h3 class="h3_turnirs">ѕ–ќ‘»Ћ№</h3>
+            <a class="a_burger_header" href="@Url.Action("MainStr", "Home")">
+                <img src="/img/ic_menu_48px.svg"
+                     alt="«начок меню, возвращающий на главную страницу" />
+            </a>
+        </div>
+        <div class="list_header">
+            <h1 style="margin-top: 2rem; font-size: 4rem; margin-bottom: 0">
+                ј–Ѕ»“–»”ћ
+            </h1>
+            <h2 style="font-size: 3rem; margin-top: 0">»Ќ‘ќ–ћј÷»я ќ ѕ–ќ‘»Ћ≈</h2>
+        </div>
+        <div class="a_profile_div"></div>
+    </header>
     <main class="main_sect">
-      <a href="result.html">ddddddddddddddddd</a>
+        <div class="user_photo"><img src="/img/user.png" alt="" /></div>
+        <div>
+            <ul class="list_btn_profile">
+                <li class="btn_profile">
+                    <button class="btn_system_description" id="system_1">
+                        настройки аккаунта
+                    </button>
+                </li>
+                <li class="btn_profile">
+                    <button class="btn_system_description" id="system_1">
+                        статистика
+                    </button>
+                </li>
+                <li class="btn_profile">
+                    <button class="btn_system_description" id="system_1">выход</button>
+                </li>
+            </ul>
+        </div>
     </main>
-  </body>
+    <footer>
+        <a class="back_strela"
+           style="margin-left: 5rem; height: 5rem; display: block; width: 7rem"
+           href="">
+            <img src="/img/ic_forward_48px.svg"
+                 alt="кнопка, возврающа€ на один шаг назад (на прошлую страницу)" />
+        </a>
+    </footer>
+</body>
 </html>

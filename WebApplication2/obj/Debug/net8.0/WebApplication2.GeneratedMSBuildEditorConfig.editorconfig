@@ -54,16 +54,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZXN1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/setting-game-player.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzZXR0aW5nLWdhbWUtcGxheWVyLmNzaHRtbA==
+[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/SettingGameFirst.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXR0aW5nR2FtZUZpcnN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/settings-game-arbiter-players.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzZXR0aW5ncy1nYW1lLWFyYml0ZXItcGxheWVycy5jc2h0bWw=
+[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/SettingGameSecond.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXR0aW5nR2FtZVNlY29uZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/settings-game-arbiter.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzZXR0aW5ncy1nYW1lLWFyYml0ZXIuY3NodG1s
+[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/SettingGameThird.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXR0aW5nR2FtZVRoaXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/settings.cshtml]

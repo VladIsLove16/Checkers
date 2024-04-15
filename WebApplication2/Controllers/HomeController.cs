@@ -27,6 +27,10 @@ namespace WebApplication2.Controllers
             return View("Reg_arbitr");
         }
 
+        public IActionResult HistoryTourn()
+        {
+            return View("HistoryTourn");
+        }
         public IActionResult Reg_player()
         {
             return View("Reg_player");
@@ -57,26 +61,24 @@ namespace WebApplication2.Controllers
             return View("Result");
         }
 
-        public IActionResult SettingGamePlayer()
+        public IActionResult SettingGameFirst()
         {
-            return View("SettingGamePlayer");
+            return View("SettingGameFirst");
         }
 
         public IActionResult Settings()
         {
             return View("Settings");
         }
-
-        public IActionResult SettingsGameArbiter()
+        public IActionResult SettingGameSecond()
         {
-            return View("SettingsGameArbiter");
+            return View("SettingGameSecond");
         }
 
-        public IActionResult SettingsGameArbiterPlayers()
+        public IActionResult SettingGameThird()
         {
-            return View("SettingsGameArbiterPlayers");
+            return View("SettingGameThird");
         }
-
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
