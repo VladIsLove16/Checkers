@@ -81,6 +81,18 @@
       "PackagePath": "staticwebassets\\img\\\uD83E\uDD86 icon _checkers_.svg"
     },
     {
+      "Id": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\wwwroot\\js\\SettingGameFirst.js",
+      "PackagePath": "staticwebassets\\js\\SettingGameFirst.js"
+    },
+    {
+      "Id": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\wwwroot\\js\\SettingGameSecond.js",
+      "PackagePath": "staticwebassets\\js\\SettingGameSecond.js"
+    },
+    {
+      "Id": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\wwwroot\\js\\SettingGameThird.js",
+      "PackagePath": "staticwebassets\\js\\SettingGameThird.js"
+    },
+    {
       "Id": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\wwwroot\\js\\choice-system.js",
       "PackagePath": "staticwebassets\\js\\choice-system.js"
     },

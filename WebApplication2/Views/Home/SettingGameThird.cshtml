@@ -4,13 +4,14 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Settings for player</title>
+    <script src="/js/SettingGameThird.js" defer></script>
     <link rel="stylesheet" href="/css/site.css" asp-append-version="true" />
 </head>
 <body>
     <header class="header_main" style="padding-bottom: 4rem">
         <div class="h3_and_burger">
             <h3 class="h3_turnirs">ТУРНИРЫ</h3>
-            <a class="a_burger_header" href="@Url.Action("MainStr", "Home")">
+            <a class="a_burger_header" href="@Url.Action("Index", "Home")">
                 <img src="/img/ic_menu_48px.svg"
                      alt="Значок меню, возвращающий на главную страницу" />
             </a>
@@ -32,7 +33,7 @@
     <main class="main_sect">
         <ul class="list_settings">
             <li class="li_set_game">
-                <h3 id="name_system">ШВЕЙЦАРСКАЯ СИСТЕМА</h3>
+                <h3 id="name_system"></h3>
             </li>
             <li class="li_set_game">
                 <h4>введите свои данные</h4>

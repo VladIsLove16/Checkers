@@ -34,12 +34,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/MainStr.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWluU3RyLmNzaHRtbA==
+[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/profileSecond.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwcm9maWxlU2Vjb25kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/Reg_arbitr.cshtml]

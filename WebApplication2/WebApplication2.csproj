@@ -23,7 +23,7 @@
     <None Include="Views\Home\ChoiceSystem.cshtml" />
     <None Include="Views\Home\history.cshtml" />
     <None Include="Views\Home\HistoryTourn.cshtml" />
-    <None Include="Views\Home\MainStr.cshtml" />
+    <None Include="Views\Home\Index.cshtml" />
     <None Include="Views\Home\profile.cshtml" />
     <None Include="Views\Home\result.cshtml" />
     <None Include="Views\Home\settings.cshtml" />

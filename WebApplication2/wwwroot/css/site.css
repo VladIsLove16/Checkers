@@ -76,11 +76,9 @@ h3 {
     font-family: var(--font-primary-bold);
     font-weight: 600;
 }
-
-a:hover {
-    border: 0.2rem solid #ff913c;
-}
-
+/* a:hover {
+  border: 0.2rem solid #ff913c;
+} */
 .img-icon {
     width: 16.2rem;
 }
@@ -321,7 +319,12 @@ footer {
     font-weight: 600;
     border-radius: 0.7rem;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-decoration: none;
 }
+
+    .btn_choice_system:hover {
+        box-shadow: 1px 1px 10px 0px #fff;
+    }
 
 .a_burger_header:hover {
     border: none;
@@ -548,13 +551,37 @@ footer {
     margin-top: 6rem;
     list-style-type: none;
     display: flex;
-    gap: 17rem;
+    gap: 3rem;
     justify-content: center;
     padding: 0;
+    align-items: center;
 }
 
 .btn_profile {
     width: 40vh;
+}
+
+.btn_prof {
+    background-color: var(--color-primary-second);
+    color: white;
+    border: none;
+    width: inherit;
+    height: 6rem;
+    border-radius: 0.7rem;
+    font-size: 2.2rem;
+    font-weight: 400;
+}
+
+    .btn_prof:hover {
+        border: 0.2rem solid white;
+        text-shadow: 0 0 3px #fff;
+    }
+
+.btn_a {
+    padding: 1.8rem 2rem;
+    text-decoration: none;
+    top: 2rem;
+    font-weight: 600;
 }
 /**/
 /*История выбранного турнира*/
