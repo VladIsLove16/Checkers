@@ -18,39 +18,17 @@ namespace WebApplication2.Controllers
             return View("Index");
         }
 
-        public IActionResult Entrance()
-        {
-            return View("Entrance");
-        }
 
-        public IActionResult Reg_arbitr()
-        {
-            return View("Reg_arbitr");
-        }
 
-        public IActionResult HistoryTourn()
+        public IActionResult ProfileSecond()
         {
-            return View("HistoryTourn");
-        }
-        public IActionResult Reg_player()
-        {
-            return View("Reg_player");
-        }
-
-        public IActionResult MainStr()
-        {
-            return View("MainStr");
+            return View("ProfileSecond");
         }
 
         public IActionResult ChoiceSystem()
         {
             
             return View();
-        }
-
-        public IActionResult History()
-        {
-            return View("History");
         }
 
         public IActionResult Profile()
@@ -62,7 +40,10 @@ namespace WebApplication2.Controllers
         {
             return View("Result");
         }
-
+        public IActionResult ResultPlaces()
+        {
+            return View("ResultPlaces");
+        }
         public IActionResult SettingGameFirst()
         {
             var SettingGame=new SettingGame();

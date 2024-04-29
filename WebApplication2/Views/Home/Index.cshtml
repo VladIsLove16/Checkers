@@ -1,34 +1,62 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="utf-8" />
+  <head>
+    <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Еntrance</title>
+    <title>Главная страница</title>
+    <script src="~/js/main-str.js" defer></script>
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-</head>
-<body class="body">
-    <header>
-        <h1 class="header-start-reg">Арбитриум</h1>
-    </header>
-    <main class="flex-main">
-        <img src="img/Frame.svg" alt="иконка приложения" class="img-icon" />
-        <div class="questions">Как вы хотите зарегистрироваться?</div>
-        <ul class="list-var-reg">
-            <li><a class="link-reg" href="@Url.Action("Reg_arbitr", "Home")">судья</a></li>
-            <li><a class="link-reg" href="@Url.Action("Reg_player", "Home")">участник</a></li>
-        </ul>
-        <div class="questions">Уже есть учетная запись?</div>
-        <a class="link-reg link-authoriz" href="@Url.Action("Entrance", "Home")">ВОЙТИ</a>
-        <a class="link-reg link-authoriz" href="@Url.Action("MainStr", "Home")">ВОЙТwecИ</a>
-
-    </main>
-
-
-    <footer>
-    </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-
-</body>
+  </head>
+    <body style="background-image: url('/img/Frame.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: -webkit-fill-available;
+    min-height: 97.5vh;
+    background-position: -3rem 13rem;">
+      <header class="header_main">
+        <div class="empty_div"></div>
+        <h1 style="margin-top: 2rem; font-size: 5rem">АРБИТРИУМ</h1>
+        <div class="a_profile_div a_profile_div_main ">
+                <a href="@Url.Action("Profile", "Home")" class="profile">
+                    <img class="profile-img" src="/img/user.svg" alt="" /></a>
+        </div>
+      </header>
+      <main class="main_sect">
+        <div class="close-menu" id="closeMenu">
+          <button class="close-btn_swim_menu" id="btnSwimMenu">
+            <img
+              class="close-burger-menu"
+              src="/img/ic_menu_48px.svg"
+              alt=""
+              id="burgerImg"
+            />
+            <img
+              class="close-back-burger"
+              src="/img/back-fon-burger-menu.svg"
+              alt=""
+              id="backBurgerImg"
+            />
+          </button>
+        </div>
+        
+        <nav class="sidebar" id="sideMenu" style="display: none">
+          <h2 class="head_sidebar">ГЛАВНОЕ МЕНЮ</h2>
+          <ul class="list_section">
+            <li class="li_section">
+                        <a class="link_sect" href="@Url.Action("ChoiceSystem", "Home")">турниры</a>
+            </li>
+            <li class="li_section">
+                        <a class="link_sect" href="@Url.Action("History", "Home")">история</a>
+            </li>
+            <li class="li_section">
+                        <a class="link_sect" href="@Url.Action("Profile", "Home")">профиль</a>
+            </li>
+            <li class="li_section">
+                        <a class="link_sect" href="@Url.Action("Settings", "Home")">настройки</a>
+            </li>
+          </ul>
+        </nav>
+      </main>
+    <footer style="padding:0"></footer>
+  </body>
 </html>
