@@ -97,14 +97,6 @@
       "PackagePath": "staticwebassets\\js\\choice-system.js"
     },
     {
-      "Id": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\wwwroot\\js\\history.js",
-      "PackagePath": "staticwebassets\\js\\history.js"
-    },
-    {
-      "Id": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\wwwroot\\js\\history_tourn.js",
-      "PackagePath": "staticwebassets\\js\\history_tourn.js"
-    },
-    {
       "Id": "C:\\Users\\DNS\\source\\repos\\WebApplication2\\Checkers\\WebApplication2\\wwwroot\\js\\main-str.js",
       "PackagePath": "staticwebassets\\js\\main-str.js"
     },

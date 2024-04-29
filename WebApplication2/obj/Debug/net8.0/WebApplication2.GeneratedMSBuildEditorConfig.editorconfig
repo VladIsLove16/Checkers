@@ -22,20 +22,8 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaG9pY2VTeXN0ZW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/entrance.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxlbnRyYW5jZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/history.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxoaXN0b3J5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/Index1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/profile.cshtml]
@@ -46,16 +34,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwcm9maWxlU2Vjb25kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/Reg_arbitr.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdfYXJiaXRyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/Reg_player.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdfcGxheWVyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/result.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/ResultPlaces.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bHRQbGFjZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DNS/source/repos/WebApplication2/Checkers/WebApplication2/Views/Home/SettingGameFirst.cshtml]

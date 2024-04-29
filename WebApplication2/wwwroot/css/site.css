@@ -852,6 +852,7 @@ h4 {
     gap: 1rem;
     justify-content: center;
     margin-right: 23rem;
+    align-items:center;
 }
 
 .btn_tabs {
@@ -1033,7 +1034,76 @@ p {
     background-color: var(--color-primary-second);
     color: white;
     border: none;
+    text-decoration:none;
     border-radius: 1rem;
-    margin-top: 1rem;
+    
     padding: 0.8rem 3.3rem;
+}
+
+/* ResultPlaces*/
+.head_table {
+    font-weight: var(--font-primary-bold);
+    font-size: 3.5rem;
+    display: block;
+    background-color: #7979ff;
+    color: var(--color-second);
+    width: 20rem;
+    text-align: center;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    margin: 0 auto;
+}
+
+.table_place_result {
+    background-color: var(--color-primary-second);
+    margin: 0 auto;
+    border-radius: 1rem;
+    padding: 1rem;
+    width: 50%;
+    font-weight: var(--font-primary-bold);
+    font-size: 2rem;
+    border-spacing: 0.5rem;
+}
+
+.el_table_place {
+    background-color: var(--color-second);
+    color: var(--color-primary-second);
+    text-align: center;
+    padding: 0.5rem 0;
+}
+
+.first_str {
+    color: #ff913c;
+}
+
+.left_top {
+    border-top-left-radius: 1rem;
+}
+
+.right_top {
+    border-top-right-radius: 1rem;
+}
+
+.right_bottom {
+    border-bottom-right-radius: 1rem;
+}
+
+.left_bottom {
+    border-bottom-left-radius: 1rem;
+}
+
+.FIO {
+    width: 20rem;
+}
+
+.id {
+    width: 2.4rem;
+}
+
+.score {
+    width: 2rem;
+}
+
+.place {
+    width: 5rem;
 }
