@@ -12,5 +12,10 @@ namespace WebApplication2.ViewModels
         public int PrizeCount { get; set; } = 0;
         public string Name="Неизвестно";
         public List<Participant> Participants=new List<Participant>();
+        public RoundGames RoundGames { get; set; }
+        public Tournament Tournament { get; set; }   
+        public SettingGame() {
+            
+        }
     }
 }

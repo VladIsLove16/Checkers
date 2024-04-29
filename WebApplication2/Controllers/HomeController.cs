@@ -36,11 +36,7 @@ namespace WebApplication2.Controllers
         {
             return View("Profile");
         }
-
-        public IActionResult Result()
-        {
-            return View("Result");
-        }
+       
         public IActionResult ResultPlaces()
         {
             return View("ResultPlaces");
@@ -98,6 +94,23 @@ namespace WebApplication2.Controllers
                 return RedirectToAction("Result", "Home");
             }
             return View();
+        }
+        [HttpGet]
+        public IActionResult Result()
+        {
+            SettingGame settingGame=DataBase.SettingGame;
+            settingGame.Tournament.Start();
+            return View(settingGame);
+        }
+        [HttpPost]
+        public IActionResult Result(SettingGame settingGame)
+        {
+            if (ModelState.IsValid)
+            {
+                DataBase.SettingGame = settingGame;
+                return RedirectToAction("Result", "Home");
+            }
+            return View("Result");
         }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
