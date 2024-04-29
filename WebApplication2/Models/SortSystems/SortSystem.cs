@@ -7,9 +7,9 @@ using WebApplication2.Models;
 
 namespace WebApplication2.Models.SortSystems
 {
-    public abstract class SortSystemBase
+    public abstract class SortSystem
     {
-        public SortSystemBase()
+        public SortSystem()
         {
         }
         public abstract List<RoundGames> CreateTournamentSchedule();

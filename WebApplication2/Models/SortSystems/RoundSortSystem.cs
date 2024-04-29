@@ -6,9 +6,17 @@ using WebApplication2.Models;
 
 namespace WebApplication2.Models.SortSystems
 {
-    public class RoundSortSystem : SortSystemBase
+    public class RoundSortSystem : SortSystem
     {
-        private Participant[] participants;
+        public Participant[] participants;
+        public RoundSortSystem()
+        {
+
+        }
+        public RoundSortSystem(Participant[] participants)
+        {
+            this.participants = participants;
+        }
         public RoundSortSystem(int numberOfParticipants)
         {
             participants = new Participant[numberOfParticipants];

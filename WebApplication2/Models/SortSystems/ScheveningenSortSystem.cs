@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace WebApplication2.Models.SortSystems
 {
-    internal class ScheveningenSortSystem : SortSystemBase
+    internal class ScheveningenSortSystem : SortSystem
     {
-        private Team Team1 = new Team();
-        private Team Team2 = new Team();
+        public Team Team1 = new Team();
+        public Team Team2 = new Team();
+        public ScheveningenSortSystem()
+        {
+
+        }
         public ScheveningenSortSystem(Team team1, Team team2)
         {
             (Team1, Team2) = (team1, team2);
@@ -25,6 +29,8 @@ namespace WebApplication2.Models.SortSystems
         }
         public override List<RoundGames> CreateTournamentSchedule()
         {
+            if (Team1.Participants.Count == 0 || Team2.Participants.Count == 0)
+                throw new Exception("Участники не указаны");
             List<RoundGames> Schedule = new List<RoundGames>();
             int ParticipantsCount = Team1.Participants.Count;
             int roundAddition = 0;

@@ -6,17 +6,21 @@ using WebApplication2.Models.Interfaces;
 using WebApplication2.Models.SortSystems;
 namespace WebApplication2.Models
 {
-    public abstract class Tournament : ITournament
+    public class Tournament
     {
+        public SortSystem SortSystem { get; set; }
+        public int Id;
+        public Judge Judge { get; set; }
         private int currentRound;
         private bool isStarted = false;
         private bool isFinished = false;
         protected List<IParticipant> participants = new();
         protected List<IRound> rounds = new();
+        
 
         public int ParticipantCount => participants.Count;
 
-        public abstract int RoundCount { get; }
+        public int RoundCount { get; }
 
         public int CurrentRound => currentRound;
 
@@ -33,8 +37,6 @@ namespace WebApplication2.Models
             else
                 throw new ParticipantExistsException(participant);
         }
-
-        public abstract IGame[] GetPairs(int roundNum);
 
         public ITable GetTournamentTable()
         {

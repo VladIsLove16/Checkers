@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Diagnostics;
 using WebApplication2.Models;
+using WebApplication2.Models.SortSystems;
 using WebApplication2.ViewModels;
 
 namespace WebApplication2.Controllers
@@ -26,12 +27,7 @@ namespace WebApplication2.Controllers
             return View("ProfileSecond");
         }
 
-        public IActionResult ChoiceSystem()
-        {
-            
-            return View();
-        }
-
+       
         public IActionResult Profile()
         {
             return View("Profile");
@@ -46,9 +42,23 @@ namespace WebApplication2.Controllers
             return View("Settings");
         }
         [HttpGet]
+        public IActionResult ChoiceSystem()
+        {
+            SettingGame settingGame = DataBase.SettingGame;
+            return View(settingGame);
+        }
+        [HttpPost]
+        public IActionResult ChoiceSystem(SettingGame settingGame)
+        {
+            DataBase.SettingGame = settingGame;
+
+            return View();
+        }
+        [HttpGet]
         public IActionResult SettingGameFirst()
         {
-            return View();
+            SettingGame settingGame = DataBase.SettingGame;
+            return View(settingGame);
         }
         [HttpPost]
         public async Task<IActionResult> SettingGameFirst(SettingGame settingGame)

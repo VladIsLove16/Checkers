@@ -1,11 +1,12 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using WebApplication2.Models;
+using WebApplication2.Models.SortSystems;
 
 namespace WebApplication2.ViewModels
 {
     public class SettingGame
     {
-        public string SortSystem ="Неопределенная";
+        public SortSystem SortSystem;
         [Range(1, 10, ErrorMessage = "Недопустимое кол-во участников")]
         public int Members { get; set; } = 0;
         [Range(0, 10, ErrorMessage = "Недопустимое кол-во призов")]
@@ -13,7 +14,7 @@ namespace WebApplication2.ViewModels
         public string Name="Неизвестно";
         public List<Participant> Participants=new List<Participant>();
         public RoundGames RoundGames { get; set; }
-        public Tournament Tournament { get; set; }   
+        public Tournament Tournament { get; set; } 
         public SettingGame() {
             
         }

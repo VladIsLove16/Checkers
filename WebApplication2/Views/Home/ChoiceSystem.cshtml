@@ -1,3 +1,7 @@
+@using WebApplication2.ViewModels
+@using WebApplication2.Models
+@using WebApplication2.Models.SortSystems
+@model SettingGame
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,11 +45,12 @@
         </div>
     </header>
     <main class="main_sect">
+        <form method="post">
         <ul class="list_system">
             <li class="system">
                 <div class="description_system">
-                    <button class="btn_system_description" id="system_1">
-                        круговая
+                        <button class="btn_system_description" id="system_1">
+                            Круговая 
                     </button>
                     <div class="desc_without_btn1" id="desc1" style="display: none">
                         <p style="padding: 0 4rem; margin-bottom: 4rem">
@@ -53,65 +58,87 @@
                             встречается со всеми остальными участниками или командами в один
                             или несколько кругов.
                         </p>
-                        <a class="btn_choice_system"
-                           href="@Url.Action("SettingGameFirst", "Home", new { choice = "1"})">выбрать</a>
+                            <button class="btn_system_description" id="system_4" type="submit" onclick=() =>
+                                @{
+                                    Model.SortSystem = new ScheveningenSortSystem();
+                                }">выбрать
+                            </button>
+                       @*  <a class="btn_choice_system"
+                               href="@Url.Action("SettingGameFirst", "Home", new RoundSortSystem())">выбрать</a> *@
+
                     </div>
                 </div>
             </li>
             <li class="system">
-                <div class="description_system">
-                    <button class="btn_system_description" id="system_2">
-                        олимпийская
-                    </button>
+                    <div class="description_system">
+                        <button class="btn_system_description" id="system_2">
+                            Олимпийская
+                        </button>
                     <div class="desc_without_btn1" id="desc2" style="display: none">
                         <p style="padding: 0 4rem; margin-bottom: 7rem">
                             в зависимости от числа спортсменов (команд), играющих по
                             условиям соревнований, устанавливается определенное количество
                             туров
-                        </p>
-                        <a class="btn_choice_system"
+                            </p>
+                            <button class="btn_system_description" id="system_4" type="submit" onclick=() =>
+                                @{
+                                    Model.SortSystem = new ScheveningenSortSystem();
+                                }">выбрать
+                            </button>
+                        @* <a class="btn_choice_system"
                            style="margin-top: 1.5rem"
                            href="@Url.Action("SettingGameFirst", "Home", new { choice = "2"})">
                             выбрать
-                        </a>
+                        </a> *@
                     </div>
                 </div>
             </li>
             <li class="system">
                 <div class="description_system">
                     <button class="btn_system_description" id="system_3">
-                        схевенингенская
-                    </button>
+                            Схевенингенская
+                        </button>
                     <div class="desc_without_btn1" id="desc3" style="display: none">
                         <p style="padding: 0 4rem; margin-bottom: 10rem">
                             участники одной команды (группы) поочередно играют с
                             представителями другой команды 
-                        </p>
-                        <a class="btn_choice_system"
+                            </p>
+                            <button class="btn_system_description" id="system_4" type="submit" onclick=() =>
+                                @{
+                                    Model.SortSystem = new ScheveningenSortSystem();
+                                }">выбрать
+                            </button>
+                        @* <a class="btn_choice_system"
                            style="margin-top: 5rem"
                            href="@Url.Action("SettingGameFirst", "Home", new { choice = "3"})">
                             выбрать
-                        </a>
+                        </a> *@
                     </div>
                 </div>
             </li>
             <li class="system">
                 <div class="description_system">
-                    <button class="btn_system_description" id="system_4">
-                        швейцарская
-                    </button>
+                        <button class="btn_system_description" id="system_4">
+                            Швейцарская
+                        </button>
                     <div class="desc_without_btn1" id="desc4" style="display: none">
                         <p style="padding: 0 4rem; margin-bottom: 4rem">
                             после каждого поражения игрок выбывает только из борьбы за более
                             высокое место. В результате победителем оказывается игрок, не
                             проигравший ни одного матча.
-                        </p>
-                        <a class="btn_choice_system"
-                           href="@Url.Action("SettingGameFirst", "Home", new { choice = "4"})">выбрать</a>
+                            </p> 
+                            <button class="btn_system_description" id="system_4" type="submit" onclick=() =>
+                                @{
+                                    Model.SortSystem = new ScheveningenSortSystem();
+                                }">выбрать
+                            </button>
+                        @* <a class="btn_choice_system"
+                           href="@Url.Action("SettingGameFirst", "Home", new { choice = "4"})"></a> *@
                     </div>
                 </div>
             </li>
         </ul>
+        </form>
     </main>
     <footer style="padding: 0">
         <a class="back_strela"
