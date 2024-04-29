@@ -91,3 +91,6 @@ D:\Subjects\PD\Checkers\WebApplication2\obj\Debug\net8.0\WebApplication2.dll
 D:\Subjects\PD\Checkers\WebApplication2\obj\Debug\net8.0\refint\WebApplication2.dll
 D:\Subjects\PD\Checkers\WebApplication2\obj\Debug\net8.0\WebApplication2.genruntimeconfig.cache
 D:\Subjects\PD\Checkers\WebApplication2\obj\Debug\net8.0\ref\WebApplication2.dll
+D:\Subjects\PD\Checkers\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.AssemblyReference.cache
+D:\Subjects\PD\Checkers\WebApplication2\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Subjects\PD\Checkers\WebApplication2\obj\Debug\net8.0\WebAppli.0DB3FC1A.Up2Date

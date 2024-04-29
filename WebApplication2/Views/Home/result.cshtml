@@ -1,3 +1,6 @@
+@using WebApplication2.ViewModels
+@using WebApplication2.Models
+@model SettingGame
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,14 +34,18 @@
         </div>
     </header>
     <main class="main_sect">
+
         <ul class="list_btn_tabs">
-            <li><button class="btn_tabs" id="btnTabs1">1</button></li>
-            <li><button class="btn_tabs" id="btnTabs2">2</button></li>
-            <li><button class="btn_tabs" id="btnTabs3">3</button></li>
-            <li><button class="btn_tabs" id="btnTabs4">4</button></li>
-            <li><button class="btn_tabs" id="btnTabs5">5</button></li>
-            <li><button class="btn_tabs" id="btnTabs6">6</button></li>
-            <li><button class="btn_tabs" id="btnTabs7">7</button></li>
+
+        @{
+            int buttonNum  = 0;
+            foreach (var participant in Model.Participants)
+            {
+                    buttonNum++;
+                    <li><button class="btn_tabs" id="btnTabs1">buttonNum</button></li>
+                    ;
+            }
+        }
         </ul>
         <div class="div_grid_result">
             <h4 class="game1">ИГРА 1</h4>

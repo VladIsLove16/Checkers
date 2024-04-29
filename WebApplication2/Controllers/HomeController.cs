@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using System.Diagnostics;
 using WebApplication2.Models;
 using WebApplication2.ViewModels;
@@ -44,24 +45,59 @@ namespace WebApplication2.Controllers
         {
             return View("ResultPlaces");
         }
-        public IActionResult SettingGameFirst()
-        {
-            var SettingGame=new SettingGame();
-            return View(SettingGame);
-        }
-
         public IActionResult Settings()
         {
             return View("Settings");
         }
+        [HttpGet]
+        public IActionResult SettingGameFirst()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> SettingGameFirst(SettingGame settingGame)
+        {
+            if (ModelState.IsValid)
+            {
+                DataBase.SettingGame = settingGame;
+                for (int i = 0; i < settingGame.Members; i++)
+                { settingGame.Participants.Add(new Participant()); }
+                return RedirectToAction("SettingGameSecond", "Home");
+            }
+
+            return View();
+        }
+       
+        [HttpGet]
         public IActionResult SettingGameSecond()
         {
-            return View("SettingGameSecond");
+            SettingGame settingGame=DataBase.SettingGame;
+            return View(settingGame);
         }
-
+        [HttpPost]
+        public async Task<IActionResult> SettingGameSecond(SettingGame settingGame)
+        {
+            if(ModelState.IsValid)
+            {
+                DataBase.SettingGame= settingGame;
+                return RedirectToAction("SettingGameThird", "Home");
+            }
+            return View();
+        }
+        [HttpGet]
         public IActionResult SettingGameThird()
         {
-            return View("SettingGameThird");
+            Judge judge = new Judge();
+            return View(judge);
+        }
+        [HttpPost]
+        public async Task<IActionResult> SettingGameThird(Judge judge)
+        {
+            if (ModelState.IsValid) {
+                DataBase.Judge = judge;
+                return RedirectToAction("Result", "Home");
+            }
+            return View();
         }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
