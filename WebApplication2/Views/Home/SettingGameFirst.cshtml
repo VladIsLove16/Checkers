@@ -1,3 +1,6 @@
+@using WebApplication2.ViewModels
+@using WebApplication2.Models
+@model SettingGame
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,15 +38,18 @@
             <li class="li_set_game">
                 <h3 id="name_system"></h3>
             </li>
+            <form asp-controller="Home" method="post">
+            <div asp-validation-summary="All" class="text-danger" ></div>
             <li class="li_set_game">
                 <h4>число участников</h4>
                 <div class="div_numb">
                     <label for="">
                         <input style="background-image: url(/img/ic_group_add_48px.svg)"
-                               class="input_numb"
-                               type="text"
-                               class="number"
-                               placeholder="0" />
+                                class="input_numb"
+                                type="text"
+                                asp-for="Members"
+                                class="number"
+                                placeholder="0" />
                     </label>
                 </div>
             </li>
@@ -52,20 +58,31 @@
                 <div class="div_numb">
                     <label for="">
                         <input style="background-image: url(/img/ic_star_24px.svg)"
-                               type="text"
                                class="input_numb"
-                               placeholder="0" />
+                                type="text"
+                                asp-for="PrizeCount"
+                                class="number"
+                                placeholder="0" />
                     </label>
                 </div>
             </li>
             <li class="li_set_game" style="border: 0.1rem solid white">
-                <a class="a_set_game"
-                   id="Link"
-                   href="@Url.Action("SettingGameSecond", "Home")">
+               
+                    @* <a class="a_set_game"
+                       id="Link"
+                       href="@Url.Action("SettingGameSecond", "Home")">
+                        <img src="/img/ic_content_paste_48px.svg" alt="" />
+                        <h4>заполнить ФИО участников</h4>
+                    </a> *@
+                
+             </li>
+            <div>
+                <button type="submit">
                     <img src="/img/ic_content_paste_48px.svg" alt="" />
-                    <h4>заполнить ФИО участников</h4>
-                </a>
-            </li>
+                        заполнить ФИО участников
+                </button>
+            </div>
+            </form>
         </ul>
     </main>
     <footer>

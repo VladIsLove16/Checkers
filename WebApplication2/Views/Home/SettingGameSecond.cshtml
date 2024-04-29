@@ -1,3 +1,6 @@
+@using WebApplication2.ViewModels
+@using WebApplication2.Models
+@model SettingGame
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,72 +39,22 @@
             </li>
             <li class="li_data_player">
                 <ul>
-                    <li class="player">
-                        <label>
-                            <input class="input_id_players"
-                                   type="text"
-                                   placeholder="id" />
-                        </label><label>
-                            <input class="input_name_players"
-                                   type="text"
-                                   placeholder="введите ФИО" />
-                        </label>
-                    </li>
-                    <li class="player">
-                        <label>
-                            <input class="input_id_players"
-                                   type="text"
-                                   placeholder="id" />
-                        </label><label>
-                            <input class="input_name_players"
-                                   type="text"
-                                   placeholder="введите ФИО" />
-                        </label>
-                    </li>
-                    <li class="player">
-                        <label>
-                            <input class="input_id_players"
-                                   type="text"
-                                   placeholder="id" />
-                        </label><label>
-                            <input class="input_name_players"
-                                   type="text"
-                                   placeholder="введите ФИО" />
-                        </label>
-                    </li>
-                    <li class="player">
-                        <label>
-                            <input class="input_id_players"
-                                   type="text"
-                                   placeholder="id" />
-                        </label><label>
-                            <input class="input_name_players"
-                                   type="text"
-                                   placeholder="введите ФИО" />
-                        </label>
-                    </li>
-                    <li class="player">
-                        <label>
-                            <input class="input_id_players"
-                                   type="text"
-                                   placeholder="id" />
-                        </label><label>
-                            <input class="input_name_players"
-                                   type="text"
-                                   placeholder="введите ФИО" />
-                        </label>
-                    </li>
-                    <li class="player">
-                        <label>
-                            <input class="input_id_players"
-                                   type="text"
-                                   placeholder="id" />
-                        </label><label>
-                            <input class="input_name_players"
-                                   type="text"
-                                   placeholder="введите ФИО" />
-                        </label>
-                    </li>
+                    @for(int i=0;i<Model.Members;i++)
+                    {
+                        <li class="player">
+                            <label>
+                                <input class="input_id_players"
+                                       type="text"
+                                       asp-for="Participants[i].Id"
+                                       placeholder="id" />
+                            </label><label>
+                                <input class="input_name_players"
+                                       type="text"
+                                       asp-for="Participants[i].Name"
+                                       placeholder="введите ФИО" />
+                            </label>
+                        </li>
+                    }
                 </ul>
             </li>
             <li class="li_data_player li_set_game"
