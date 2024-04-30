@@ -51,18 +51,47 @@ namespace WebApplication2.Controllers
         public IActionResult ChoiceSystem(SettingGame settingGame)
         {
             DataBase.SettingGame = settingGame;
-
             return View();
         }
         [HttpGet]
-        public IActionResult SettingGameFirst()
+        public IActionResult SettingGameFirst(string choice,string sortSystem)
         {
             SettingGame settingGame = DataBase.SettingGame;
+
+            Console.WriteLine("Выбрана система сортировки: "+ sortSystem);
+            switch (sortSystem)
+            {
+                case "Круговая":
+                    {
+                        settingGame.SortSystem = new RoundSortSystem();
+                        break;
+                    }
+                case "Олимпийская":
+                    {
+                        settingGame.SortSystem = new OlympicSortSystem();
+                        break;
+                    }
+                case "Cхевенингенская":
+                    {
+                        settingGame.SortSystem = new ScheveningenSortSystem();
+                        break;
+                    }
+                case "Швейцарская":
+                    {
+                        settingGame.SortSystem = new SwissSortSystem();
+                        break;
+                    }
+                default:
+                    break;
+            }
+            Console.WriteLine("Задействована система сортировки: " + settingGame.SortSystem);
             return View(settingGame);
         }
         [HttpPost]
         public async Task<IActionResult> SettingGameFirst(SettingGame settingGame)
         {
+
+            Console.Write("Проверка. система сортировки: " + DataBase.SettingGame.SortSystem);
             if (ModelState.IsValid)
             {
                 DataBase.SettingGame = settingGame;
@@ -93,14 +122,15 @@ namespace WebApplication2.Controllers
         [HttpGet]
         public IActionResult SettingGameThird()
         {
-            Judge judge = new Judge();
-            return View(judge);
+            SettingGame settingGame = DataBase.SettingGame;
+            return View(settingGame);
         }
         [HttpPost]
-        public async Task<IActionResult> SettingGameThird(Judge judge)
+        public async Task<IActionResult> SettingGameThird(SettingGame settingGame)
         {
             if (ModelState.IsValid) {
-                DataBase.Judge = judge;
+                DataBase.SettingGame = settingGame;
+                Console.WriteLine(DataBase.SettingGame.Members);
                 return RedirectToAction("Result", "Home");
             }
             return View();
@@ -108,10 +138,29 @@ namespace WebApplication2.Controllers
         [HttpGet]
         public IActionResult Result()
         {
-            SettingGame settingGame=DataBase.SettingGame;
-            settingGame.Tournament.Start();
+            
+            SettingGame settingGame = DataBase.SettingGame;
+            StartTournament(settingGame);
             return View(settingGame);
         }
+
+        private static void StartTournament(SettingGame settingGame)
+        {
+            Tournament tournament = TournamentCreator.Create();
+
+            tournament.SortSystem = settingGame.SortSystem;
+
+            tournament.PrizeCount = settingGame.PrizeCount;
+
+            foreach (var participant in settingGame.Participants)
+                tournament.AddParticipant(participant);
+
+            tournament.Judge = settingGame.Judge;
+
+            DataBase.AddTournament(tournament);
+            tournament.Start();
+        }
+
         [HttpPost]
         public IActionResult Result(SettingGame settingGame)
         {

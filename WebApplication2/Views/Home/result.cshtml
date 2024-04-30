@@ -49,7 +49,6 @@
         <div class="div_grid_result">
             @foreach(var game in Model.RoundGames)
             {
-
                 <h4 class="game1">ИГРА</h4>
                 <p class="id_game1" style="color: #ff913c">id</p>
                 <p class="id_game2" style="color: #ff913c">id</p>
@@ -60,7 +59,10 @@
             }
         </div>
         <ul class="list_btn_tabs" style="margin-left: 24rem">
-            <li><button class="btn_set_game">сохранить</button></li>
+            <form method="input">
+
+                 <li><button class="btn_set_game" type="submit">сохранить</button></li>
+            </form>
             <li><a href="@Url.Action("ResultPlaces", "Home")" class="btn_set_game">расчет итогов</a></li>
         </ul>
     </main>

@@ -4,8 +4,35 @@ namespace WebApplication2.Models
 {
     public static class DataBase
     {
-        public static List<Tournament> TournamentList { get; set; } = new List<Tournament>();
-        public static SettingGame SettingGame { get; set; } = new SettingGame();
+        static string filename;
+        public static List<Tournament> TournamentList
+        {
+            get
+            {
+                return new List<Tournament>();  
+            }
+            set
+            {
+
+            }
+        }
+        
+        public static SettingGame SettingGame
+        {
+            get
+            {
+                if (settingGame == null)
+                    return new SettingGame();
+                else return settingGame;
+            }
+            set { settingGame = value; }
+        }
         public static Judge Judge { get; internal set; }
+        private static SettingGame settingGame;
+
+        internal static void AddTournament(Tournament tournament)
+        {
+            TournamentList.Add(tournament);
+        }
     }
 }

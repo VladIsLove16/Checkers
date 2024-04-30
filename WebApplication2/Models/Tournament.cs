@@ -8,15 +8,18 @@ namespace WebApplication2.Models
 {
     public class Tournament
     {
-        public SortSystem SortSystem { get; set; }
+        public SortSystem SortSystem { get; set; }    
         public int Id;
-        public Judge Judge { get; set; }
+        
         private int currentRound;
         private bool isStarted = false;
         private bool isFinished = false;
         protected List<IParticipant> participants = new();
         protected List<IRound> rounds = new();
-        
+
+        public int PrizeCount;
+        public Judge Judge { get; set; } = new Judge();
+        public string Name; 
 
         public int ParticipantCount => participants.Count;
 
@@ -30,12 +33,12 @@ namespace WebApplication2.Models
 
         public void AddParticipant(IParticipant participant)
         {
-            if (IsStarted)
-                throw new TournamentStartedException();
-            if (participants.Find(p => p.Name == participant.Name && p.Age == participant.Age && p.Gender == participant.Gender) == null)
+            //if (IsStarted)
+            //    throw new TournamentStartedException();
+            //if (participants.Find(p => p.Name == participant.Name && p.Age == participant.Age && p.Gender == participant.Gender) == null)
                 participants.Add(participant);
-            else
-                throw new ParticipantExistsException(participant);
+            //else
+            //    throw new ParticipantExistsException(participant);
         }
 
         public ITable GetTournamentTable()
@@ -54,15 +57,19 @@ namespace WebApplication2.Models
         {
             currentRound = 1;
             isStarted = true;
+            List<RoundGames>RoundGames= SortSystem.CreateTournamentSchedule();
+            foreach (RoundGames roundGames in RoundGames)
+            {
+                Round round = [.. roundGames];
+                rounds.Add(round);
+            }
         }
-
         public IGame[] UnfinishedGamesInPreviousRound()
         {
             var prevoiusRoundIndex = CurrentRound - 2;
             if (prevoiusRoundIndex < 0) return Array.Empty<IGame>();
             return rounds[prevoiusRoundIndex].Games.Where(g => g.Result == GameResult.None).ToArray();
         }
-
         public IGame[] UnfinishedGamesInCurrentRound()
         {
             var currentRoundIndex = CurrentRound - 1;

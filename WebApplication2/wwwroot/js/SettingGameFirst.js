@@ -19,7 +19,7 @@ switch (getQueryParam('choice')) {
     break;
   case '4':
     nameSystem.textContent = 'ШВЕЙЦАРСКАЯ СИСТЕМА';
-    localStorage.setItem('sistemFour', 'ШВЕЙЦАРСКАЯ СИСТЕМА');
+    localStorage.setItem('systemFour', 'ШВЕЙЦАРСКАЯ СИСТЕМА');
   default:
     break;
 }
